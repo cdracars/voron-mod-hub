@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Voron Mod Hub
 
-## Getting Started
+Voron Mod Hub is a static Next.js experience for browsing the community-maintained [VoronUsers](https://github.com/VoronDesign/VoronUsers) catalog. The app ingests the massive markdown table from `printer_mods/README.md`, converts it into structured JSON, and ships a fast, client-side filtered view that is safe to host on GitHub Pages.
 
-First, run the development server:
+## Highlights
+- 🔄 **Automated data refresh** – `npm run parse` fetches & re-parses the VoronUsers table into `public/mods.json`.
+- ⚡️ **Instant filtering** – search by title, creator, or description and filter by core printer families completely on the client.
+- 📦 **Static export ready** – `npm run build:static` emits an `out/` folder that deploys directly to GitHub Pages.
+- 🚀 **Daily rebuilds** – a GitHub Actions workflow (push, schedule, manual) refreshes the data, commits it when necessary, builds, and deploys.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Project Structure
+```
+voron-mod-hub/
+├── .github/workflows/build.yml   # CI: parse → build → deploy
+├── public/mods.json              # Generated data source
+├── scripts/parseReadme.ts        # README parser (GitHub Actions + local)
+├── src/
+│   ├── components/               # UI primitives (FilterPanel, ModCard, ModGrid)
+│   ├── lib/types.ts              # Shared Mod/compatibility types
+│   ├── pages/                    # Pages router entry points
+│   │   ├── _app.tsx / _document.tsx
+│   │   └── index.tsx             # Main UI + filtering logic
+│   └── styles/globals.css        # Tailwind v4 entrypoint + tokens
+├── next.config.ts                # Static export + image tweaks for Pages
+└── package.json                  # npm scripts (dev, parse, build:static, etc.)
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Local Development
+```bash
+npm install
+npm run parse       # Fetch & rebuild public/mods.json
+npm run dev         # Start Next.js on http://localhost:3000
+npm run lint        # ESLint with Next.js config
+npm run build       # Production build (SSR)
+npm run build:static  # Build + export to ./out for GitHub Pages
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### Data Refresh Details
+1. `scripts/parseReadme.ts` downloads `printer_mods/README.md` (override with `VORON_USERS_README_URL`).
+2. The script walks the markdown table, carries forward blank creator cells, infers compatibility flags for the five primary printer families, and stores the result in `public/mods.json` with a `lastUpdated` timestamp.
+3. The Next.js page reads `public/mods.json` at build time via `getStaticProps` and hydrates the client-side filters.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### GitHub Pages Workflow
+`.github/workflows/build.yml` runs on pushes to `main`, on a nightly cron (`0 0 * * *`), and manually:
+1. `npm ci`
+2. `npm run parse`
+3. Commit `public/mods.json` if it changed
+4. `npm run build:static` → `out/`
+5. Upload artifact + deploy via `actions/deploy-pages`
 
-## Learn More
+Ensure **Actions → General → Workflow permissions** is set to “Read and write” so the workflow can commit the data file.
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## Environment
+No secrets are required. Everything is derived from public GitHub data. If the VoronUsers table layout ever changes, update `scripts/parseReadme.ts` accordingly.
