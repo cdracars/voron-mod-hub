@@ -1,6 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import { useRouter } from "next/router";
+import type { MouseEvent } from "react";
 
 import type { Mod } from "@/lib/types";
 import type { PrinterKey } from "./FilterPanel";
@@ -31,8 +32,21 @@ export function ModCard({ mod }: ModCardProps) {
   const resolvedImage =
     mod.image && !mod.image.startsWith("http") ? `${basePath}${mod.image}` : mod.image;
 
-  const handleCreatorClick = (event: React.MouseEvent<HTMLAnchorElement>) => {
+  const openExternal = (url?: string) => {
+    if (!url || typeof window === "undefined") return;
+    window.open(url, "_blank", "noopener,noreferrer");
+  };
+
+  const handleCreatorClick = (event: MouseEvent<HTMLButtonElement>) => {
     event.stopPropagation();
+    event.preventDefault();
+    openExternal(mod.authorSlug ? `https://github.com/${mod.authorSlug}` : undefined);
+  };
+
+  const handleReadmeClick = (event: MouseEvent<HTMLButtonElement>) => {
+    event.stopPropagation();
+    event.preventDefault();
+    openExternal(mod.readmeUrl);
   };
 
   return (
@@ -53,22 +67,36 @@ export function ModCard({ mod }: ModCardProps) {
                 height={320}
                 className="h-40 w-full object-cover transition duration-200 group-hover:scale-[1.02]"
                 unoptimized
+                loading="lazy"
               />
             ) : (
-              <div className="h-40 w-full bg-gradient-to-br from-zinc-800 via-zinc-700 to-zinc-900" />
+              <div className="flex h-40 w-full flex-col items-center justify-center gap-2 bg-gradient-to-br from-zinc-800 via-zinc-700 to-zinc-900 text-zinc-400">
+                <svg
+                  aria-hidden
+                  viewBox="0 0 24 24"
+                  className="h-8 w-8"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth={1.6}
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <path d="M3 7h3l2-3h8l2 3h3v12H3z" />
+                  <circle cx="12" cy="13" r="3" />
+                </svg>
+                <span className="text-xs font-medium uppercase tracking-wide">No preview</span>
+              </div>
             )}
           </div>
           <div>
             {mod.authorSlug ? (
-              <a
-                href={`https://github.com/${mod.authorSlug}`}
-                target="_blank"
-                rel="noopener noreferrer"
+              <button
+                type="button"
                 onClick={handleCreatorClick}
-                className="text-xs uppercase tracking-wide text-emerald-600 hover:text-emerald-400 dark:text-emerald-300"
+                className="text-xs uppercase tracking-wide text-emerald-600 underline-offset-2 hover:text-emerald-400 hover:underline dark:text-emerald-300"
               >
                 {mod.creator}
-              </a>
+              </button>
             ) : (
               <p className="text-xs uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
                 {mod.creator}
@@ -84,6 +112,18 @@ export function ModCard({ mod }: ModCardProps) {
           <p className="text-sm leading-relaxed text-zinc-600 dark:text-zinc-300">
             {mod.description}
           </p>
+          {mod.readmeUrl ? (
+            <div>
+              <button
+                type="button"
+                onClick={handleReadmeClick}
+                className="inline-flex items-center gap-1 rounded-full border border-zinc-300 px-3 py-1 text-[11px] font-semibold uppercase tracking-wide text-emerald-600 transition hover:border-emerald-400 hover:text-emerald-400 dark:border-zinc-600 dark:text-emerald-300"
+              >
+                README
+                <span aria-hidden>↗</span>
+              </button>
+            </div>
+          ) : null}
         </div>
 
         <div className="mt-2 flex flex-col gap-4 border-t border-white/10 p-5 pt-4">

@@ -8,11 +8,13 @@ Voron Mod Hub is a static Next.js experience for browsing the community-maintain
 - 📦 **Static export ready** – `npm run build:static` emits an `out/` folder that deploys directly to GitHub Pages.
 - 🚀 **Daily rebuilds** – a GitHub Actions workflow (push, schedule, manual) refreshes the data, commits it when necessary, builds, and deploys.
 - 🖼 **Automatic previews** – nightly builds try to grab the first image from each mod’s README so cards feel more visual without any manual curation.
+- ☀️ **Theme + permalinked filters** – visitors can toggle light/dark/system modes and share URLs (`?q=query&printers=v2_4`) that restore search/filter state automatically.
 
 ## Project Structure
 ```
 voron-mod-hub/
 ├── .github/workflows/build.yml   # CI: parse → build → deploy
+├── public/mod-images/            # Cached JPG snapshots generated from README GIFs
 ├── public/mods.json              # Generated data source
 ├── scripts/parseReadme.ts        # README parser (GitHub Actions + local)
 ├── src/
@@ -34,19 +36,21 @@ npm run dev         # Start Next.js on http://localhost:3000
 npm run lint        # ESLint with Next.js config
 npm run build       # Production build (SSR)
 npm run build:static  # Build + export to ./out for GitHub Pages
+npm run smoke       # Lint + static build (matches CI smoke step)
 ```
 
 ### Data Refresh Details
 1. `scripts/parseReadme.ts` downloads `printer_mods/README.md` (override with `VORON_USERS_README_URL`).
 2. The script walks the markdown table, carries forward blank creator cells, infers compatibility flags for the five primary printer families, and stores the result in `public/mods.json` with a `lastUpdated` timestamp.
-3. The Next.js page reads `public/mods.json` at build time via `getStaticProps` and hydrates the client-side filters.
+3. GIF previews are cached as JPGs in `public/mod-images/` with metadata recorded in `data/imageCache.json` so subsequent runs only refetch changed mods.
+4. The Next.js page reads `public/mods.json` at build time via `getStaticProps` and hydrates the client-side filters.
 
 ### GitHub Pages Workflow
 `.github/workflows/build.yml` runs on pushes to `main`, on a nightly cron (`0 0 * * *`), and manually:
 1. `npm ci`
 2. `npm run parse`
 3. Commit `public/mods.json` if it changed
-4. `npm run build:static` → `out/`
+4. `npm run smoke` (lint + build, produces `out/`)
 5. Upload artifact + deploy via `actions/deploy-pages`
 
 Ensure **Actions → General → Workflow permissions** is set to “Read and write” so the workflow can commit the data file.

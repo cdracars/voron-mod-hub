@@ -17,6 +17,8 @@ export interface Mod {
   lastChanged?: string;
   image?: string;
   authorSlug?: string;
+  repoPath?: string;
+  readmeUrl?: string;
 }
 
 export interface ModsData {

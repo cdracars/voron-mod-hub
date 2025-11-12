@@ -45,8 +45,8 @@ jobs:
             git commit -m "chore: update mods data"
           fi
 
-      - name: Build static export
-        run: npm run build:static
+      - name: Lint & build smoke test
+        run: npm run smoke
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

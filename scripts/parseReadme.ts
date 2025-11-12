@@ -11,11 +11,13 @@ const README_URL =
   "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/README.md";
 
 const MOD_BASE_URL = "https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods";
+const MOD_BLOB_BASE_URL = "https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods";
 const RAW_BASE_URL = "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods";
 const README_FILENAME = "README.md";
 const IMAGE_FETCH_CONCURRENCY = 8;
 const IMAGE_EXTENSIONS = [".png", ".jpg", ".jpeg", ".gif", ".webp", ".bmp", ".svg"];
 const MOD_IMAGE_DIR = path.join(process.cwd(), "public", "mod-images");
+const IMAGE_CACHE_PATH = path.join(process.cwd(), "data", "imageCache.json");
 
 const PRINTER_SYNONYMS: Record<keyof Compatibility, string[]> = {
   v0: ["V0", "V0.0", "V0.1", "V0.2", "V0.2r1"],
@@ -51,6 +53,27 @@ async function downloadBuffer(url: string) {
   if (!response.ok) return undefined;
   const arrayBuffer = await response.arrayBuffer();
   return Buffer.from(arrayBuffer);
+}
+
+type ImageCacheEntry = {
+  image: string | null;
+  lastChanged?: string;
+};
+
+type ImageCache = Record<string, ImageCacheEntry>;
+
+async function loadImageCache(): Promise<ImageCache> {
+  try {
+    const raw = await fs.readFile(IMAGE_CACHE_PATH, "utf-8");
+    return JSON.parse(raw) as ImageCache;
+  } catch {
+    return {};
+  }
+}
+
+async function saveImageCache(cache: ImageCache) {
+  await fs.mkdir(path.dirname(IMAGE_CACHE_PATH), { recursive: true });
+  await fs.writeFile(IMAGE_CACHE_PATH, JSON.stringify(cache, null, 2) + "\n", "utf-8");
 }
 
 async function fetchReadme() {
@@ -150,6 +173,14 @@ async function maybeMaterializeImage(url: string) {
   return `/mod-images/${filename}`;
 }
 
+function isLocalImage(image?: string | null) {
+  return !!image && image.startsWith("/mod-images/");
+}
+
+function getLocalImagePath(image: string) {
+  return path.join(process.cwd(), "public", image.replace(/^\//, ""));
+}
+
 type DraftMod = Mod & { sourcePath?: string };
 
 function parseMods(markdown: string): DraftMod[] {
@@ -223,33 +254,72 @@ async function fetchPreviewImage(relativePath: string) {
   }
 }
 
-async function addPreviewImages(mods: DraftMod[]) {
-  const cache = new Map<string, string | null>();
+async function addPreviewImages(mods: DraftMod[], cache: ImageCache) {
+  await ensureImageDir();
+  const usedLocalImages = new Set<string>();
+  let cacheHits = 0;
+  let downloads = 0;
+  let gifConversions = 0;
 
   for (let i = 0; i < mods.length; i += IMAGE_FETCH_CONCURRENCY) {
     const batch = mods.slice(i, i + IMAGE_FETCH_CONCURRENCY);
     await Promise.all(
       batch.map(async (mod) => {
         if (!mod.sourcePath) return;
-        if (cache.has(mod.sourcePath)) {
-          const cached = cache.get(mod.sourcePath);
-          if (cached) mod.image = cached;
-          return;
+        const cacheEntry = cache[mod.sourcePath];
+        if (cacheEntry && cacheEntry.lastChanged === mod.lastChanged) {
+          if (cacheEntry.image) {
+            if (!isLocalImage(cacheEntry.image) || (await fileExists(getLocalImagePath(cacheEntry.image)))) {
+              mod.image = cacheEntry.image;
+              if (isLocalImage(cacheEntry.image)) {
+                usedLocalImages.add(cacheEntry.image);
+              }
+              cacheHits += 1;
+              return;
+            }
+          } else {
+            return;
+          }
         }
 
         const image = await fetchPreviewImage(mod.sourcePath);
         if (!image) {
-          cache.set(mod.sourcePath, null);
+          cache[mod.sourcePath] = { image: null, lastChanged: mod.lastChanged };
           return;
         }
 
+        downloads += 1;
         const finalImage = await maybeMaterializeImage(image);
-        cache.set(mod.sourcePath, finalImage ?? null);
+        cache[mod.sourcePath] = { image: finalImage ?? null, lastChanged: mod.lastChanged };
         if (finalImage) {
           mod.image = finalImage;
+          if (isLocalImage(finalImage)) {
+            usedLocalImages.add(finalImage);
+            gifConversions += 1;
+          }
         }
       }),
     );
+  }
+
+  return { usedLocalImages, stats: { cacheHits, downloads, gifConversions } };
+}
+
+async function cleanupUnusedLocalImages(usedImages: Set<string>) {
+  try {
+    const files = await fs.readdir(MOD_IMAGE_DIR);
+    await Promise.all(
+      files.map(async (file) => {
+        const urlPath = `/mod-images/${file}`;
+        if (!usedImages.has(urlPath)) {
+          await fs.unlink(path.join(MOD_IMAGE_DIR, file));
+        }
+      }),
+    );
+  } catch (error) {
+    if ((error as NodeJS.ErrnoException).code !== "ENOENT") {
+      console.warn("Unable to cleanup local preview images", error);
+    }
   }
 }
 
@@ -257,11 +327,19 @@ async function main() {
   console.log(`Fetching VoronUsers README from ${README_URL}`);
   const markdown = await fetchReadme();
   const drafts = parseMods(markdown).sort((a, b) => a.title.localeCompare(b.title));
-  await addPreviewImages(drafts);
+  const imageCache = await loadImageCache();
+  const { usedLocalImages, stats } = await addPreviewImages(drafts, imageCache);
   const mods: Mod[] = drafts.map((draft) => {
     const { sourcePath, ...rest } = draft;
-    void sourcePath;
-    return rest;
+    const repoPath = sourcePath ? `printer_mods/${sourcePath}` : undefined;
+    const readmeUrl = sourcePath
+      ? `${MOD_BLOB_BASE_URL}/${sourcePath}/${README_FILENAME}`
+      : undefined;
+    return {
+      ...rest,
+      repoPath,
+      readmeUrl,
+    };
   });
   const payload: ModsData = {
     mods,
@@ -271,6 +349,11 @@ async function main() {
   const outputPath = path.join(process.cwd(), "public", "mods.json");
   await fs.writeFile(outputPath, JSON.stringify(payload, null, 2) + "\n", "utf-8");
   console.log(`Wrote ${mods.length} mods to ${outputPath}`);
+  console.log(
+    `Image cache hits: ${stats.cacheHits}, fetched readmes: ${stats.downloads}, GIFs converted: ${stats.gifConversions}`,
+  );
+  await saveImageCache(imageCache);
+  await cleanupUnusedLocalImages(usedLocalImages ?? new Set());
 }
 
 main().catch((error) => {

@@ -3,6 +3,7 @@ import type { GetStaticProps } from "next";
 import path from "path";
 import { promises as fs } from "fs";
 import { useMemo, useState, useEffect, useRef, useCallback } from "react";
+import { useRouter } from "next/router";
 
 import type { Mod, ModsData } from "@/lib/types";
 import { FilterPanel, type PrinterKey, type SortOption } from "@/components/FilterPanel";
@@ -23,15 +24,41 @@ const sorters: Record<SortOption, (a: Mod, b: Mod) => number> = {
   },
 };
 const PAGE_SIZE = 24;
+const PRINTER_KEYS: PrinterKey[] = ["v0", "v0_1", "v1_8", "v2_4", "trident"];
 
 export default function Home({ mods, lastUpdated }: HomeProps) {
-  const [search, setSearch] = useState("");
-  const [selectedPrinters, setSelectedPrinters] = useState<PrinterKey[]>([]);
-  const [sortBy, setSortBy] = useState<SortOption>("recent");
+  const router = useRouter();
+  const { isReady, pathname, replace } = router;
+  const initialQuery = useMemo(() => {
+    if (typeof window === "undefined") {
+      return { search: "", printers: [] as PrinterKey[], sortBy: "recent" as SortOption, queryString: "" };
+    }
+    const params = new URLSearchParams(window.location.search);
+    const searchValue = params.get("q") ?? "";
+    const sortParam = params.get("sort");
+    const sortValue: SortOption =
+      sortParam === "title" || sortParam === "creator" || sortParam === "recent" ? (sortParam as SortOption) : "recent";
+    const printersParam = params.get("printers");
+    const parsedPrinters = printersParam
+      ? printersParam
+          .split(",")
+          .map((value) => value.trim())
+          .filter((value): value is PrinterKey => PRINTER_KEYS.includes(value as PrinterKey))
+      : [];
+    return {
+      search: searchValue,
+      printers: parsedPrinters,
+      sortBy: sortValue,
+      queryString: params.toString(),
+    };
+  }, []);
+  const [search, setSearch] = useState(initialQuery.search);
+  const [selectedPrinters, setSelectedPrinters] = useState<PrinterKey[]>(initialQuery.printers);
+  const [sortBy, setSortBy] = useState<SortOption>(initialQuery.sortBy);
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
   const [showScrollTop, setShowScrollTop] = useState(false);
   const sentinelRef = useRef<HTMLDivElement | null>(null);
-
+  const lastQueryStringRef = useRef(initialQuery.queryString);
   const filteredMods = useMemo(() => {
     const normalizedSearch = search.trim().toLowerCase();
 
@@ -109,6 +136,27 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
     );
     setVisibleCount(PAGE_SIZE);
   };
+
+  useEffect(() => {
+    if (!isReady) return;
+    const params = new URLSearchParams();
+    if (search.trim()) params.set("q", search.trim());
+    if (selectedPrinters.length) params.set("printers", selectedPrinters.join(","));
+    if (sortBy !== "recent") params.set("sort", sortBy);
+    const queryString = params.toString();
+    if (queryString === lastQueryStringRef.current) return;
+    lastQueryStringRef.current = queryString;
+
+    const queryObject = Object.fromEntries(params.entries());
+    replace(
+      {
+        pathname,
+        query: queryObject,
+      },
+      undefined,
+      { shallow: true, scroll: false },
+    );
+  }, [isReady, pathname, replace, search, selectedPrinters, sortBy]);
 
   return (
     <>

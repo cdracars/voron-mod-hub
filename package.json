@@ -8,7 +8,8 @@
     "start": "next start",
     "lint": "eslint",
     "parse": "tsx scripts/parseReadme.ts",
-    "build:static": "next build"
+    "build:static": "next build",
+    "smoke": "npm run lint && npm run build:static"
   },
   "dependencies": {
     "next": "16.0.1",
