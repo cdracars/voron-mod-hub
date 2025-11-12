@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
+import { useRouter } from "next/router";
 
 import type { Mod } from "@/lib/types";
 import type { PrinterKey } from "./FilterPanel";
@@ -23,9 +24,12 @@ interface ModCardProps {
 }
 
 export function ModCard({ mod }: ModCardProps) {
+  const { basePath } = useRouter();
   const lastChanged = mod.lastChanged
     ? new Date(mod.lastChanged).toLocaleDateString(undefined, { dateStyle: "medium" })
     : undefined;
+  const resolvedImage =
+    mod.image && !mod.image.startsWith("http") ? `${basePath}${mod.image}` : mod.image;
 
   const handleCreatorClick = (event: React.MouseEvent<HTMLAnchorElement>) => {
     event.stopPropagation();
@@ -41,9 +45,9 @@ export function ModCard({ mod }: ModCardProps) {
       >
         <div className="flex flex-col gap-3 p-5">
           <div className="relative -mx-1 -mt-1 overflow-hidden rounded-2xl border border-white/10 bg-zinc-900/40">
-            {mod.image ? (
+            {resolvedImage ? (
               <Image
-                src={mod.image}
+                src={resolvedImage}
                 alt={`${mod.title} preview`}
                 width={640}
                 height={320}
