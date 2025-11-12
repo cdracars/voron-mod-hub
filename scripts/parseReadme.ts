@@ -154,7 +154,7 @@ type DraftMod = Mod & { sourcePath?: string };
 
 function parseMods(markdown: string): DraftMod[] {
   const lines = markdown.split(/\r?\n/);
-  const mods: Mod[] = [];
+  const mods: DraftMod[] = [];
   let inTable = false;
   let lastCreator = "";
 
