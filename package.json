@@ -8,7 +8,7 @@
     "start": "next start",
     "lint": "eslint",
     "parse": "tsx scripts/parseReadme.ts",
-    "build:static": "next build && next export"
+    "build:static": "next build"
   },
   "dependencies": {
     "next": "16.0.1",
