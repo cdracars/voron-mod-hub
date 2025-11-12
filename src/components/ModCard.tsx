@@ -1,3 +1,5 @@
+import Image from "next/image";
+
 import type { Mod } from "@/lib/types";
 import type { PrinterKey } from "./FilterPanel";
 
@@ -25,12 +27,37 @@ export function ModCard({ mod }: ModCardProps) {
     : undefined;
 
   return (
-    <article className="flex h-full flex-col justify-between rounded-3xl border border-white/10 bg-white/90 p-5 shadow-sm transition hover:-translate-y-1 hover:shadow-lg dark:bg-zinc-900/70">
-      <div className="flex flex-col gap-3">
+    <article className="flex h-full flex-col justify-between overflow-hidden rounded-3xl border border-white/10 bg-white/90 shadow-sm transition hover:-translate-y-1 hover:shadow-lg dark:bg-zinc-900/70">
+      <div className="flex flex-col gap-3 p-5">
+        <div className="relative -mx-1 -mt-1 overflow-hidden rounded-2xl border border-white/10 bg-zinc-900/40">
+          {mod.image ? (
+            <Image
+              src={mod.image}
+              alt={`${mod.title} preview`}
+              width={640}
+              height={320}
+              className="h-40 w-full object-cover"
+              unoptimized
+            />
+          ) : (
+            <div className="h-40 w-full bg-gradient-to-br from-zinc-800 via-zinc-700 to-zinc-900" />
+          )}
+        </div>
         <div>
-          <p className="text-xs uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
-            {mod.creator}
-          </p>
+          {mod.authorSlug ? (
+            <a
+              href={`https://github.com/${mod.authorSlug}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-xs uppercase tracking-wide text-emerald-600 hover:text-emerald-400 dark:text-emerald-300"
+            >
+              {mod.creator}
+            </a>
+          ) : (
+            <p className="text-xs uppercase tracking-wide text-zinc-500 dark:text-zinc-400">
+              {mod.creator}
+            </p>
+          )}
           <h3 className="mt-1 text-xl font-semibold text-zinc-900 dark:text-white">
             {mod.title}
           </h3>
@@ -43,7 +70,7 @@ export function ModCard({ mod }: ModCardProps) {
         </p>
       </div>
 
-      <div className="mt-6 flex flex-col gap-4">
+      <div className="mt-2 flex flex-col gap-4 border-t border-white/10 p-5 pt-4">
         <div className="flex flex-wrap gap-2">
           {COMPATIBILITY_ORDER.map(({ key, label }) => {
             const status = mod.compatibility[key];

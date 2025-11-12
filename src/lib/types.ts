@@ -15,6 +15,8 @@ export interface Mod {
   link: string;
   compatibility: Compatibility;
   lastChanged?: string;
+  image?: string;
+  authorSlug?: string;
 }
 
 export interface ModsData {

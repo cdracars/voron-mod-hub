@@ -2,7 +2,7 @@ import Head from "next/head";
 import type { GetStaticProps } from "next";
 import path from "path";
 import { promises as fs } from "fs";
-import { useMemo, useState } from "react";
+import { useMemo, useState, useEffect, useRef, useCallback } from "react";
 
 import type { Mod, ModsData } from "@/lib/types";
 import { FilterPanel, type PrinterKey, type SortOption } from "@/components/FilterPanel";
@@ -22,11 +22,15 @@ const sorters: Record<SortOption, (a: Mod, b: Mod) => number> = {
     return bTime - aTime;
   },
 };
+const PAGE_SIZE = 24;
 
 export default function Home({ mods, lastUpdated }: HomeProps) {
   const [search, setSearch] = useState("");
   const [selectedPrinters, setSelectedPrinters] = useState<PrinterKey[]>([]);
   const [sortBy, setSortBy] = useState<SortOption>("recent");
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+  const [showScrollTop, setShowScrollTop] = useState(false);
+  const sentinelRef = useRef<HTMLDivElement | null>(null);
 
   const filteredMods = useMemo(() => {
     const normalizedSearch = search.trim().toLowerCase();
@@ -45,11 +49,65 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
 
     return scoped.sort(sorters[sortBy]);
   }, [mods, search, selectedPrinters, sortBy]);
+  const visibleMods = useMemo(
+    () => filteredMods.slice(0, visibleCount),
+    [filteredMods, visibleCount],
+  );
+  const hasMore = visibleCount < filteredMods.length;
+  const loadMore = useCallback(() => {
+    setVisibleCount((count) => Math.min(count + PAGE_SIZE, filteredMods.length));
+  }, [filteredMods.length]);
+
+  const handleSearchChange = (value: string) => {
+    setSearch(value);
+    setVisibleCount(PAGE_SIZE);
+  };
+
+  useEffect(() => {
+    if (typeof window === "undefined") return;
+    const onScroll = () => {
+      setShowScrollTop(window.scrollY > 600);
+    };
+    window.addEventListener("scroll", onScroll, { passive: true });
+    onScroll();
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
+  const scrollToTop = () => {
+    if (typeof window === "undefined") return;
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
+
+  const handleSortChange = (value: SortOption) => {
+    setSortBy(value);
+    setVisibleCount(PAGE_SIZE);
+  };
+
+  useEffect(() => {
+    if (!hasMore) return;
+    if (typeof window === "undefined" || typeof IntersectionObserver === "undefined") return;
+    const sentinel = sentinelRef.current;
+    if (!sentinel) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const entry = entries[0];
+        if (entry.isIntersecting) {
+          loadMore();
+        }
+      },
+      { rootMargin: "320px" },
+    );
+
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [hasMore, loadMore, visibleMods.length]);
 
   const handleTogglePrinter = (printer: PrinterKey) => {
     setSelectedPrinters((prev) =>
       prev.includes(printer) ? prev.filter((item) => item !== printer) : [...prev, printer],
     );
+    setVisibleCount(PAGE_SIZE);
   };
 
   return (
@@ -70,8 +128,9 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
                 The fastest way to explore Voron community mods
               </h1>
               <p className="max-w-2xl text-base text-white/80">
-                We automatically parse VoronUsers every day so you can search, filter, and discover mods
-                without digging through GitHub tables. Everything is static, fast, and ready for you to find what you need.
+                Community-built and unofficial, this hub exists to make the official VoronUsers catalog easier to browse.
+                We parse VoronUsers every day so you can search, filter, and discover mods without digging through GitHub
+                tables. Everything is static, fast, and ready for you to find what you need.
               </p>
             </div>
             <div className="flex flex-wrap gap-6 text-sm text-white/80">
@@ -88,19 +147,49 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
 
           <FilterPanel
             search={search}
-            onSearchChange={setSearch}
+            onSearchChange={handleSearchChange}
             activePrinters={selectedPrinters}
             onTogglePrinter={handleTogglePrinter}
             sortBy={sortBy}
-            onSortChange={setSortBy}
+            onSortChange={handleSortChange}
             totalMods={mods.length}
             filteredMods={filteredMods.length}
             lastUpdated={lastUpdated}
           />
 
-          <ModGrid mods={filteredMods} />
+          <ModGrid mods={visibleMods} />
+
+          <div className="flex flex-col items-center gap-4">
+            <p className="text-sm text-zinc-600 dark:text-zinc-400">
+              Showing {visibleMods.length} of {filteredMods.length} matching mods
+            </p>
+            {hasMore ? (
+              <>
+                <button
+                  type="button"
+                  onClick={loadMore}
+                  className="rounded-full border border-white/30 px-6 py-2 text-sm font-semibold text-white hover:border-emerald-400 hover:text-emerald-200 dark:border-zinc-700 dark:text-zinc-200 dark:hover:border-emerald-400"
+                >
+                  Load more
+                </button>
+                <div ref={sentinelRef} className="h-1 w-full" aria-hidden />
+              </>
+            ) : (
+              <div className="h-1 w-full" aria-hidden />
+            )}
+          </div>
         </div>
       </main>
+      {showScrollTop ? (
+        <button
+          type="button"
+          onClick={scrollToTop}
+          aria-label="Scroll back to top"
+          className="fixed bottom-6 right-6 rounded-full bg-emerald-600 p-3 text-white shadow-lg transition hover:bg-emerald-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-emerald-400"
+        >
+          ↑
+        </button>
+      ) : null}
     </>
   );
 }

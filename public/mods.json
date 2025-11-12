@@ -12,7 +12,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Phalanx",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Phalanx/Other-V2-Idlers/Images/comparison.jpg"
     },
     {
       "creator": "mjoaris",
@@ -26,7 +28,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "mjoaris",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/mjoaris/10x11_Cable_Chain_Endcaps/Images/printed.jpg"
     },
     {
       "creator": "hymness1",
@@ -40,7 +44,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hymness1",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hymness1/10x11mm_chain_VSW/Pictures/10x11mm_chains_open.jpg"
     },
     {
       "creator": "Jon",
@@ -54,7 +60,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Jon",
+      "image": "/mod-images/9f58adbccf8495fc71545e9440791ac0.jpg"
     },
     {
       "creator": "Ellis",
@@ -68,7 +76,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Ellis",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Ellis/15x15_Drag_Chain_End/Images/Image.png"
     },
     {
       "creator": "ByteChild",
@@ -82,7 +92,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ByteChild"
     },
     {
       "creator": "MasturMynd",
@@ -96,7 +107,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MasturMynd",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MasturMynd/V2-2-Piece_Z_Tensioners/Images/preview.png"
     },
     {
       "creator": "Ferdi360",
@@ -110,7 +123,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Ferdi360",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Ferdi360/2.4_Bedfan_Backplates/Images/2.4_Backplates.PNG"
     },
     {
       "creator": "techprolet",
@@ -124,7 +139,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T16:27:05+00:00"
+      "lastChanged": "2024-03-14T16:27:05+00:00",
+      "authorSlug": "techprolet",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/techprolet/2020_aplic_cam_mount/img/2020_aplic_cam_mount.jpg"
     },
     {
       "creator": "chri.kai.in",
@@ -138,7 +155,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "chri.kai.in",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/chri.kai.in/20x20mm_Profile_Covers/Images/V1/2020_Profile_Covers.png"
     },
     {
       "creator": "AlexanderT-Moss",
@@ -152,7 +171,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "AlexanderT-Moss",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/Logo-Variation-0.png?raw=true"
     },
     {
       "creator": "chrisrgonzales",
@@ -166,7 +187,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "chrisrgonzales",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/chrisrgonzales/270_degree_hinge/Images/installed-0-closed.jpg"
     },
     {
       "creator": "sgr33n",
@@ -180,7 +203,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-05-26T21:49:13+00:00"
+      "lastChanged": "2024-05-26T21:49:13+00:00",
+      "authorSlug": "sgr33n",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/sgr33n/300mm-x-extrusion-endcap/Images/300mm-X-Extrusion-Endcap-X-Carriage.jpg"
     },
     {
       "creator": "LoCoCNC",
@@ -194,7 +219,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoCoCNC"
     },
     {
       "creator": "khay",
@@ -208,7 +234,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T16:46:20+00:00"
+      "lastChanged": "2024-03-14T16:46:20+00:00",
+      "authorSlug": "khay",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/khay/V2_3x_Keystone_Plugpanel/Img/Plug_Panel_CAD.png"
     },
     {
       "creator": "samwiseg0",
@@ -222,7 +250,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "samwiseg0",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/samwiseg0/4channel_relay_under_deck_mount/Images/4channel_relay_under_deck_mount.png"
     },
     {
       "creator": "jaysuk",
@@ -236,7 +266,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "jaysuk"
     },
     {
       "creator": "jeoje",
@@ -250,7 +281,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "jeoje",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/jeoje/4.3_Inch_Touchscreen_Mount/images/CAD_front_profile.png"
     },
     {
       "creator": "Rhastlyn",
@@ -264,7 +297,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Rhastlyn",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Rhastlyn/60mmFanCover/Images/FancoverOverview.png"
     },
     {
       "creator": "Nomsplease",
@@ -278,7 +313,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Nomsplease"
     },
     {
       "creator": "filotto78",
@@ -292,7 +328,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "filotto78",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/filotto78/6mm_slot_cover/images/symmetric.jpg"
     },
     {
       "creator": "Koios",
@@ -306,7 +344,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Koios",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Koios/6mm_Glass/Images/Glass.jpg"
     },
     {
       "creator": "teookie",
@@ -320,7 +360,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "teookie"
     },
     {
       "creator": "samwiseg0",
@@ -334,7 +375,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "samwiseg0",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/samwiseg0/ab_plug_microfit_1x4/Images/ab_microfit_1x4_non_pme.png"
     },
     {
       "creator": "Badnoob",
@@ -348,7 +391,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Badnoob"
     },
     {
       "creator": "Badnoob",
@@ -362,7 +406,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Badnoob"
     },
     {
       "creator": "richardjm",
@@ -376,7 +421,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "richardjm",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/richardjm/adxl-chain/Images/TheDamage.jpg"
     },
     {
       "creator": "Jon",
@@ -390,7 +437,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Jon",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Jon/adxl345_skirt_keystone/IMG/skirt.keystone.adxl345.jpg"
     },
     {
       "creator": "xbst_",
@@ -404,7 +453,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/ADXL345_V0_Mount/example.jpg"
     },
     {
       "creator": "hhammarstrand",
@@ -418,7 +469,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hhammarstrand",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hhammarstrand/afterburner_connector_cover_42STH20-1004AS/compare.png?raw=true"
     },
     {
       "creator": "maximilian-foerg",
@@ -432,7 +485,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "maximilian-foerg",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/maximilian-foerg/AB_Turbo_Mod/Images/01.png"
     },
     {
       "creator": "al3ph",
@@ -446,7 +501,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "al3ph"
     },
     {
       "creator": "chri.kai.in",
@@ -460,7 +516,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "chri.kai.in"
     },
     {
       "creator": "richardjm",
@@ -474,7 +531,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "richardjm",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/richardjm/back-plate/Images/CAD1.png"
     },
     {
       "creator": "JNP",
@@ -488,7 +547,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JNP"
     },
     {
       "creator": "Ellis",
@@ -502,7 +562,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Ellis",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Ellis/Badge_Retractor_Mount/Images/Example.jpg"
     },
     {
       "creator": "aeresov",
@@ -516,7 +578,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-06-19T10:47:27+00:00"
+      "lastChanged": "2024-06-19T10:47:27+00:00",
+      "authorSlug": "aeresov",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/aeresov/ballpoint-pen-spring-DIN-clips/Images/remove_support.jpg"
     },
     {
       "creator": "Ellis",
@@ -530,7 +594,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Ellis",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Ellis/Bed_Fans/Images/5015_mount_isolated.png"
     },
     {
       "creator": "GadgetAngel",
@@ -544,7 +610,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "GadgetAngel",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/GadgetAngel/Bed_Support_Alignment_Tools/images/Bed_Support_Alignment_Tools.jpg"
     },
     {
       "creator": "th0mpy",
@@ -558,7 +626,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "th0mpy"
     },
     {
       "creator": "MSA",
@@ -572,7 +641,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MSA"
     },
     {
       "creator": "Kruppes",
@@ -586,7 +656,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Kruppes",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Kruppes/Tension_Meter/pictures/model.png"
     },
     {
       "creator": "Hobson318",
@@ -600,7 +672,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Hobson318",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Hobson318/Belt_Tension_Wrench/Images/Tool.jpg"
     },
     {
       "creator": "jangrewe",
@@ -614,7 +688,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "jangrewe",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/jangrewe/Bitter_USB_Cam/Images/Bitter_USB_Cam.png"
     },
     {
       "creator": "hernsl",
@@ -628,7 +704,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hernsl",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hernsl/bottom_panel_mag_clip/bottom_panel_maghold_panel.jpg"
     },
     {
       "creator": "BlueBear",
@@ -642,7 +720,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "BlueBear",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/BlueBear/Bowden_Fence/images/image01.jpg"
     },
     {
       "creator": "Galvanic",
@@ -656,7 +736,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Galvanic"
     },
     {
       "creator": "lakai",
@@ -670,7 +751,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "lakai",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/lakai/Bruag_Skirts/Images/front_skirts.jpg"
     },
     {
       "creator": "Oakman",
@@ -684,7 +767,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Oakman"
     },
     {
       "creator": "Dr-Info",
@@ -698,7 +782,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-02-01T10:07:10+00:00"
+      "lastChanged": "2024-02-01T10:07:10+00:00",
+      "authorSlug": "Dr-Info",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Dr-Info/BTT_5160T_Plus_Mounts/Images/5160T_plus_mounts.jpg"
     },
     {
       "creator": "rsheng118",
@@ -712,7 +798,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "rsheng118"
     },
     {
       "creator": "alanho",
@@ -726,7 +813,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "alanho",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/alanho/BTT_PITFT50_v2_Mount/images/IMG_6447.jpg"
     },
     {
       "creator": "OboMaker3D",
@@ -740,7 +829,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "OboMaker3D"
     },
     {
       "creator": "OboMaker3D",
@@ -754,7 +844,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "OboMaker3D"
     },
     {
       "creator": "Fiction",
@@ -768,7 +859,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Fiction"
     },
     {
       "creator": "Koios",
@@ -782,7 +874,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Koios",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Koios/C920_Mount/Images/FoV.png"
     },
     {
       "creator": "Iakabos",
@@ -796,7 +890,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Iakabos"
     },
     {
       "creator": "PsychoShaft",
@@ -810,7 +905,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "PsychoShaft"
     },
     {
       "creator": "ryandam",
@@ -824,7 +920,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ryandam",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ryandam/Cable_management_duct/Images/VORON_V0.1_cable_management_duct.png"
     },
     {
       "creator": "ppak10",
@@ -838,7 +936,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-25T17:26:27+00:00"
+      "lastChanged": "2024-01-25T17:26:27+00:00",
+      "authorSlug": "ppak10",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ppak10/Cable_Port_Flush_Mount_Skirt/Images/250_300_350_Render.png"
     },
     {
       "creator": "aeresov",
@@ -852,7 +952,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "aeresov"
     },
     {
       "creator": "Kyleisah",
@@ -866,7 +967,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Kyleisah",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Kyleisah/CableGator/Images/StylishView.png"
     },
     {
       "creator": "xbst_",
@@ -880,7 +983,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_",
+      "image": "/mod-images/504d5dc5e4a0ec33ace1121d319eaf7f.jpg"
     },
     {
       "creator": "davidauvergne",
@@ -894,7 +999,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "davidauvergne"
     },
     {
       "creator": "padok",
@@ -908,7 +1014,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "padok",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/padok/chain_anchor-ADXL345_mount/img/VORON2_v2.4_Assembly_-_Chain_Anchor_-_IGUS.png"
     },
     {
       "creator": "scanlory",
@@ -922,7 +1030,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "scanlory",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/scanlory/clip_on_door_frame/Images/full_front_view.jpg"
     },
     {
       "creator": "BlueBear",
@@ -936,7 +1046,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "BlueBear",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/BlueBear/Wago_221_mount/images/ScrewMountUsage.jpg"
     },
     {
       "creator": "LoganFraser",
@@ -950,7 +1062,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoganFraser",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/LoganFraser/ComboInlet/BothInlet.png"
     },
     {
       "creator": "hijax_pl",
@@ -964,7 +1078,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hijax_pl"
     },
     {
       "creator": "Dr-Info",
@@ -978,7 +1093,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-02-01T10:07:10+00:00"
+      "lastChanged": "2024-02-01T10:07:10+00:00",
+      "authorSlug": "Dr-Info",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Dr-Info/corner_cable_cover_with_drop_down_holes/Images/top_corner_cable_cover_with_drop_holes_front.JPG"
     },
     {
       "creator": "samwiseg0",
@@ -992,7 +1109,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "samwiseg0",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/samwiseg0/corner_cable_hide/Images/[a]_top_corner_cable_hide.png"
     },
     {
       "creator": "hijax_pl",
@@ -1006,7 +1125,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hijax_pl"
     },
     {
       "creator": "42bios",
@@ -1020,7 +1140,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "42bios",
+      "image": "/mod-images/5fc6d565e8c66a7602ec2cf9f25f724c.jpg"
     },
     {
       "creator": "BladeScraper-Designs",
@@ -1034,7 +1156,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "BladeScraper-Designs"
     },
     {
       "creator": "samwiseg0",
@@ -1048,7 +1171,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "samwiseg0",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/samwiseg0/voyager_gtx_din_mount/Images/voyager_gtx_din_mount.png"
     },
     {
       "creator": "gauravmm",
@@ -1062,7 +1187,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "gauravmm",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/gauravmm/crazy_mozzie_cw2/images/pic.jpg"
     },
     {
       "creator": "strayr",
@@ -1076,7 +1203,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "strayr",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/strayr/stealthburner_creality_toolhead/img/pneumatic_coupler.jpg"
     },
     {
       "creator": "dankeeling",
@@ -1090,7 +1219,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "dankeeling",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/dankeeling/CreativeLiveCameraMount/Images/PartImage.jpg"
     },
     {
       "creator": "GadgetAngel",
@@ -1104,7 +1235,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "GadgetAngel",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/V2.4_1Color.jpg"
     },
     {
       "creator": "Fiction",
@@ -1118,7 +1251,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Fiction"
     },
     {
       "creator": "evandepol",
@@ -1132,7 +1266,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "evandepol",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/evandepol/Crydom-GN-Guard/Images/guard.png"
     },
     {
       "creator": "Reemuson",
@@ -1146,7 +1282,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-31T00:45:03+00:00"
+      "lastChanged": "2024-03-31T00:45:03+00:00",
+      "authorSlug": "Reemuson",
+      "image": "/mod-images/1a4d07346c92ca9d0591feee275370cd.jpg"
     },
     {
       "creator": "JNP",
@@ -1160,7 +1298,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JNP"
     },
     {
       "creator": "BlueBear",
@@ -1174,7 +1313,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "BlueBear",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/BlueBear/Deck_Panel_Backpack/images/image02.jpg"
     },
     {
       "creator": "wile-e1",
@@ -1188,7 +1329,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "wile-e1"
     },
     {
       "creator": "arkeet",
@@ -1202,7 +1344,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "arkeet",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/arkeet/dti-mount/images/photo.jpg"
     },
     {
       "creator": "xbst_",
@@ -1216,7 +1360,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_"
     },
     {
       "creator": "xbst_",
@@ -1230,7 +1375,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_"
     },
     {
       "creator": "xbst_",
@@ -1244,7 +1390,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_"
     },
     {
       "creator": "Tircown",
@@ -1258,7 +1405,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Tircown"
     },
     {
       "creator": "tameike",
@@ -1272,7 +1420,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "tameike"
     },
     {
       "creator": "hijax_pl",
@@ -1286,7 +1435,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hijax_pl",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hijax_pl/din_rail_mount/din_rail_mount.png"
     },
     {
       "creator": "tameike",
@@ -1300,7 +1451,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "tameike"
     },
     {
       "creator": "Tircown",
@@ -1314,7 +1466,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Tircown",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Tircown/Display_mount_5inch/Images/Capture.JPG"
     },
     {
       "creator": "randell",
@@ -1328,7 +1482,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "randell",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/randell/Door_Hinges/Images/image_1.png?raw=true"
     },
     {
       "creator": "mosher",
@@ -1342,7 +1498,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "mosher",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/mosher/m3_door_hinges/Door_Hinges_mod_with_M3_35mm.png"
     },
     {
       "creator": "ZZP8202",
@@ -1356,7 +1514,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-07-14T14:53:20+00:00"
+      "lastChanged": "2024-07-14T14:53:20+00:00",
+      "authorSlug": "ZZP8202",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ZZP8202/Double_GEAR_ratio_Z/Images/CAD_front_view.png"
     },
     {
       "creator": "JNP",
@@ -1370,7 +1530,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JNP"
     },
     {
       "creator": "antoinecellerier",
@@ -1384,7 +1545,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "antoinecellerier",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/antoinecellerier/ds18b20-sensor-mount/Images/CAD_3.jpg"
     },
     {
       "creator": "geoffreyyoung",
@@ -1398,7 +1561,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "geoffreyyoung",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/geoffreyyoung/dual_rail_guide/images/guide.jpg"
     },
     {
       "creator": "xbst_",
@@ -1412,7 +1577,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/Duct_Mount/example.jpg"
     },
     {
       "creator": "DorjeDorf",
@@ -1426,7 +1593,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "DorjeDorf"
     },
     {
       "creator": "DorjeDorf",
@@ -1440,7 +1608,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "DorjeDorf"
     },
     {
       "creator": "Nomsplease",
@@ -1454,7 +1623,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Nomsplease",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Nomsplease/V0_duet_wifi_mount/Images/back_compartment.jpg"
     },
     {
       "creator": "xbst_",
@@ -1468,7 +1639,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/DuetZero/example.jpg"
     },
     {
       "creator": "xbst_",
@@ -1482,7 +1655,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/Easy_Access_Rear_Panels_v0/example.jpg"
     },
     {
       "creator": "Weaslus",
@@ -1496,7 +1671,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Weaslus",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Weaslus/Electronics-Bay-Seperator/Seperator.png"
     },
     {
       "creator": "ppak10",
@@ -1510,7 +1687,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-05-08T21:51:38+00:00"
+      "lastChanged": "2024-05-08T21:51:38+00:00",
+      "authorSlug": "ppak10",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ppak10/Enclosed_Z_Chain_Guide/Images/render.png"
     },
     {
       "creator": "Kruppes",
@@ -1524,7 +1703,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Kruppes",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Kruppes/Closed_Bottom/pictures/simple_bottom.png"
     },
     {
       "creator": "Gizzle",
@@ -1538,7 +1719,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Gizzle",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Gizzle/ender-3_pro_switchwire/IMAGES/General.PNG"
     },
     {
       "creator": "Triano",
@@ -1552,7 +1735,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Triano",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Triano/Ender_3Pro_Switchwire/Images/SN049.jpg"
     },
     {
       "creator": "buzzdalf",
@@ -1566,7 +1751,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "buzzdalf",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/buzzdalf/ender_switchwire_taller_z/IMAGES/picture.jpg"
     },
     {
       "creator": "buzzdalf",
@@ -1580,7 +1767,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "buzzdalf",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/buzzdalf/ytension/IMAGES/installed.jpg"
     },
     {
       "creator": "Ultrawaffles",
@@ -1594,7 +1783,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Ultrawaffles",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Ultrawaffles/Ender_3_to_SW/Images/Fusion360_icWbvkmAlb.png"
     },
     {
       "creator": "ByteChild",
@@ -1608,7 +1799,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ByteChild"
     },
     {
       "creator": "samwiseg0",
@@ -1622,7 +1814,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "samwiseg0",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/samwiseg0/esp8266_nodemcu_din_mount/Images/esp8266_nodemcu_din_mount.png"
     },
     {
       "creator": "frankaf",
@@ -1636,7 +1830,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "frankaf",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/frankaf/mgn12-euclid/Images/real-bottomview.jpg"
     },
     {
       "creator": "chri.kai.in",
@@ -1650,7 +1846,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "chri.kai.in"
     },
     {
       "creator": "42bios",
@@ -1664,7 +1861,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "42bios",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/42bios/exhaust_filter_housing_side/efh_s_1.png"
     },
     {
       "creator": "hergtoler",
@@ -1678,7 +1877,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hergtoler",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hergtoler/exhaust_120mm_duct/images/exhaust_120mm_assembly.png"
     },
     {
       "creator": "togi",
@@ -1692,7 +1893,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "togi",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/togi/exhaust_housing_side_fitting/Images/1.png"
     },
     {
       "creator": "Fiction",
@@ -1706,7 +1909,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Fiction"
     },
     {
       "creator": "Fiction",
@@ -1720,7 +1924,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Fiction"
     },
     {
       "creator": "whoppingpochard",
@@ -1734,7 +1939,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "whoppingpochard",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/whoppingpochard/extrusion_backers/images/gantry_factor_loose.png"
     },
     {
       "creator": "samwiseg0",
@@ -1748,7 +1955,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "samwiseg0",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/samwiseg0/extrusion_thermistor_mount/Images/extrusion_thermistor_holder.png"
     },
     {
       "creator": "khay",
@@ -1762,7 +1971,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T16:46:20+00:00"
+      "lastChanged": "2024-03-14T16:46:20+00:00",
+      "authorSlug": "khay",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/khay/V2-200_4020_Electronics_Fan/Img/DSC_3249_kl.jpg"
     },
     {
       "creator": "3dpandme",
@@ -1776,7 +1987,9 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "3dpandme",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/3dpandme/Fannypack_zero/Installed.jpg"
     },
     {
       "creator": "Jasrags",
@@ -1790,7 +2003,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Jasrags",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Jasrags/sw_fee_slot_filament_passthrough/images/CAD_front_profile.png"
     },
     {
       "creator": "al3ph",
@@ -1804,7 +2019,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "al3ph",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/al3ph/filament_runout/images/front.jpeg"
     },
     {
       "creator": "bobbleheed",
@@ -1818,7 +2035,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "bobbleheed",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/bobbleheed/Filament_Runout/IMAGES/Internal_Assembly.png"
     },
     {
       "creator": "d3nny",
@@ -1832,7 +2051,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "d3nny"
     },
     {
       "creator": "xbst_",
@@ -1846,7 +2066,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_"
     },
     {
       "creator": "GiulianoM",
@@ -1860,7 +2081,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "GiulianoM"
     },
     {
       "creator": "JNP",
@@ -1874,7 +2096,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JNP"
     },
     {
       "creator": "claytono",
@@ -1888,7 +2111,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "claytono",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/claytono/fysetc-s6-v2-mount/render.png"
     },
     {
       "creator": "hoschi",
@@ -1902,7 +2127,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hoschi",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hoschi/FYSETC_Spider_DIN_Mount/IMG/main.jpg"
     },
     {
       "creator": "Oakman",
@@ -1916,7 +2143,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Oakman"
     },
     {
       "creator": "btp",
@@ -1930,7 +2158,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "btp"
     },
     {
       "creator": "DrGhetto",
@@ -1944,7 +2173,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "DrGhetto",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/DrGhetto/GhettoPanels/images/ghettopanels.jpg"
     },
     {
       "creator": "Majarspeed",
@@ -1958,7 +2189,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Majarspeed",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Majarspeed/Hartk_Mount_Galileo/hbgm.jpg"
     },
     {
       "creator": "xbst_",
@@ -1972,7 +2205,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/Hat_LED_Mount/example.jpg"
     },
     {
       "creator": "dePrintinator",
@@ -1986,7 +2221,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "dePrintinator",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/dePrintinator/HEPA_Filter_Exhaust/Images/hepa-chamber-exhaust-cad.png"
     },
     {
       "creator": "JNP",
@@ -2000,7 +2237,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JNP"
     },
     {
       "creator": "Akio",
@@ -2014,7 +2252,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Akio",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Akio/cable_routing_z_belt_cover/img/cable_routing_z_belt_cover_mod.png"
     },
     {
       "creator": "BladeScraper-Designs",
@@ -2028,7 +2268,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "BladeScraper-Designs"
     },
     {
       "creator": "LoganFraser",
@@ -2042,7 +2283,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoganFraser"
     },
     {
       "creator": "xbst_",
@@ -2056,7 +2298,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_"
     },
     {
       "creator": "120decibell",
@@ -2070,7 +2313,9 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "120decibell",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/120decibell/huvud_chain_mount/images/huvud_chain_mount.png"
     },
     {
       "creator": "albert",
@@ -2084,7 +2329,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "albert",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/albert/IKEA_Dioder_Led_Mount/IKEA_Dioder_LED_Strip.png"
     },
     {
       "creator": "watt-this",
@@ -2098,7 +2345,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "watt-this",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/watt-this/in-situ_linear_rail_greasing/IMG/in_situ_regreasing.png"
     },
     {
       "creator": "tameike",
@@ -2112,7 +2361,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "tameike"
     },
     {
       "creator": "StvPtrsn",
@@ -2126,7 +2376,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "StvPtrsn",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/StvPtrsn/Keystone_Jack_Filtered_Mains_Panel/Images/rear.jpg"
     },
     {
       "creator": "Kosh42EFG",
@@ -2140,7 +2392,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Kosh42EFG"
     },
     {
       "creator": "reQu1em00",
@@ -2154,7 +2407,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "reQu1em00",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/reQu1em00/Kirigami_LED_Bed_Front/Bedfront.jpg"
     },
     {
       "creator": "MapleLeafMakers",
@@ -2168,7 +2423,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MapleLeafMakers",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MapleLeafMakers/Kirigami_Stealth_Bumper/Images/render.png"
     },
     {
       "creator": "JosAr",
@@ -2182,7 +2439,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JosAr",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/JosAr/Klicky-Probe/Photos/Klicky_Probe.png"
     },
     {
       "creator": "Hobson318",
@@ -2196,7 +2455,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Hobson318",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Hobson318/Klipper_Expander_Mount/Images/Mount_Top.jpg"
     },
     {
       "creator": "raymondh",
@@ -2210,7 +2471,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "raymondh"
     },
     {
       "creator": "gamebofh",
@@ -2224,7 +2486,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "gamebofh",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/gamebofh/door-panels/Images/door-latch-installed.jpg"
     },
     {
       "creator": "Spaghetti-Bolognese",
@@ -2238,7 +2502,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Spaghetti-Bolognese"
     },
     {
       "creator": "richardjm",
@@ -2252,7 +2517,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "richardjm",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/richardjm/led-mounts/Images/White.jpg"
     },
     {
       "creator": "eddie",
@@ -2266,7 +2533,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "eddie"
     },
     {
       "creator": "Koios",
@@ -2280,7 +2548,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Koios",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Koios/LED_Mounts/Images/FromAbove.jpg"
     },
     {
       "creator": "al3ph",
@@ -2294,7 +2564,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "al3ph"
     },
     {
       "creator": "Nomsplease",
@@ -2308,7 +2579,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Nomsplease",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Nomsplease/V0_led_mounts/Images/lighting.jpg"
     },
     {
       "creator": "DerekBackus",
@@ -2322,7 +2595,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-21T20:17:15+00:00"
+      "lastChanged": "2024-01-21T20:17:15+00:00",
+      "authorSlug": "DerekBackus",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/DerekBackus/LED_Holder/Images/LED_Strip_Example.jpg"
     },
     {
       "creator": "Dr-Info",
@@ -2336,7 +2611,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-02-01T10:07:10+00:00"
+      "lastChanged": "2024-02-01T10:07:10+00:00",
+      "authorSlug": "Dr-Info"
     },
     {
       "creator": "geoffreyyoung",
@@ -2350,7 +2626,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "geoffreyyoung",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/geoffreyyoung/lgx/images/mgn12-rear.jpg"
     },
     {
       "creator": "falo",
@@ -2364,7 +2642,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "falo",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/falo/lgx_lite_side_can/Images/image.png"
     },
     {
       "creator": "Mrgl-Mrgl",
@@ -2378,7 +2658,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Mrgl-Mrgl",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Mrgl-Mrgl/LGX_Lite_Mount/Lgx_Lite_Mounting.png"
     },
     {
       "creator": "Fiction",
@@ -2392,7 +2674,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Fiction",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Fiction/LGX_Lite_toolhead_PCB_mount/Images/github_download.png"
     },
     {
       "creator": "MikesMods",
@@ -2406,7 +2690,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MikesMods",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MikesMods/LGX_mount_for_V0.1_with_2nd_X_rail/LGX_0_1.png"
     },
     {
       "creator": "sammynorway",
@@ -2420,7 +2706,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "sammynorway",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/sammynorway/LGX-stealthburner-connector-cover/Images/Preview-front.png"
     },
     {
       "creator": "ademuri",
@@ -2434,7 +2722,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ademuri",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ademuri/Lights_Camera_Voron/printer_with_rails.jpg"
     },
     {
       "creator": "TiagoBarata",
@@ -2448,7 +2738,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "TiagoBarata",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/TiagoBarata/Logitech_C270_Mount/C270_Top_Center_Mount_1.jpg"
     },
     {
       "creator": "Baltojikale",
@@ -2462,7 +2754,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Baltojikale",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Baltojikale/LoudOwl_aka_Stabby/Visual/LoudOwl_2.jpg"
     },
     {
       "creator": "Dr-Info",
@@ -2476,7 +2770,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-02-01T10:07:10+00:00"
+      "lastChanged": "2024-02-01T10:07:10+00:00",
+      "authorSlug": "Dr-Info",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Dr-Info/LRS_DIN_Mount_Offset/Images/lrs_offset.jpg"
     },
     {
       "creator": "samwiseg0",
@@ -2490,7 +2786,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "samwiseg0",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/samwiseg0/lrs_screw_terminal_cover/Images/lrs_50_screw_terminal_cover.png"
     },
     {
       "creator": "Blamm",
@@ -2504,7 +2802,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Blamm"
     },
     {
       "creator": "falo",
@@ -2518,7 +2817,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "falo",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/falo/magnetic_grill_cover/Images/render_front.png"
     },
     {
       "creator": "arkeet",
@@ -2532,7 +2833,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "arkeet",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/arkeet/magnet-fan-cover/images/section.png"
     },
     {
       "creator": "bobbleheed",
@@ -2546,7 +2849,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "bobbleheed",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/bobbleheed/Magnetic_Panels/IMAGES/Mount_Assembly.png"
     },
     {
       "creator": "Le0n",
@@ -2560,7 +2865,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Le0n",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Le0n/Magnetic_Panels_with_Magnet_Inserts/Images/magnetic-panel-and-inserts-0-installed-2.jpg"
     },
     {
       "creator": "Printopal",
@@ -2574,7 +2881,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Printopal"
     },
     {
       "creator": "gerritwellen",
@@ -2588,7 +2896,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "gerritwellen"
     },
     {
       "creator": "Long",
@@ -2602,7 +2911,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Long"
     },
     {
       "creator": "MapleLeafMakers",
@@ -2616,7 +2926,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MapleLeafMakers",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MapleLeafMakers/Matchstick_Diffusers/Images/CAD1.png"
     },
     {
       "creator": "aeresov",
@@ -2630,7 +2942,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "aeresov"
     },
     {
       "creator": "arkeet",
@@ -2644,7 +2957,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "arkeet",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/arkeet/mgn12/Images/x_axis.png"
     },
     {
       "creator": "LoCoCNC",
@@ -2658,7 +2973,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoCoCNC"
     },
     {
       "creator": "bythorsthunder",
@@ -2672,7 +2988,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "bythorsthunder",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/bythorsthunder/MGN9_Backers/IMAGES/Updated_Cable_Bridge.jpg"
     },
     {
       "creator": "samwiseg0",
@@ -2686,7 +3004,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "samwiseg0",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/samwiseg0/microfit_2x3_skirt_connector_adxl/Images/[a]_microfit_2x3_skirt_connector_adxl_skirt.png"
     },
     {
       "creator": "randell",
@@ -2700,7 +3020,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "randell",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/randell/Microswitch_Endstop/Images/picture2.jpg?raw=true"
     },
     {
       "creator": "BladeScraper-Designs",
@@ -2714,7 +3036,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "BladeScraper-Designs"
     },
     {
       "creator": "JNP",
@@ -2728,7 +3051,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JNP"
     },
     {
       "creator": "Andre",
@@ -2742,7 +3066,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Andre",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Andre/Mini_Afterburner_ADXL345_Mount/Images/CAD_1.png"
     },
     {
       "creator": "Andre",
@@ -2756,7 +3082,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Andre",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Andre/Mini_Afterburner_Strain_Relief/Images/CAD_1.png"
     },
     {
       "creator": "Bondtech",
@@ -2770,7 +3098,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Bondtech",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Bondtech/Mini-After-LGX-Lite/Images/mini-after-lgx-lite_header-1200x628.jpg"
     },
     {
       "creator": "mjoaris",
@@ -2784,7 +3114,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "mjoaris",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/mjoaris/Mini12864_LCD_Mount_for_V2.4/Images/LCD_SwivelUp.jpg"
     },
     {
       "creator": "MrDespair",
@@ -2798,7 +3130,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MrDespair"
     },
     {
       "creator": "Maverick",
@@ -2812,7 +3145,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Maverick",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Maverick/MiniSB_LGX_Lite/Images/MiniSB_LGXL_1.png"
     },
     {
       "creator": "Maverick",
@@ -2826,7 +3161,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Maverick"
     },
     {
       "creator": "Maverick",
@@ -2840,7 +3176,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Maverick"
     },
     {
       "creator": "reapola",
@@ -2854,7 +3191,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "reapola",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/reapola/MKS_CANable_Pro_mount/Images/canable_pro_cad.jpg"
     },
     {
       "creator": "mikepthomas",
@@ -2868,7 +3207,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "mikepthomas",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/mikepthomas/MKS_Mosfet_Mount/Images/MKS_Mosfet_Mount.png"
     },
     {
       "creator": "xbst_",
@@ -2882,7 +3223,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/V0_M4_Mod/example.jpg"
     },
     {
       "creator": "MapleLeafMakers",
@@ -2896,7 +3239,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MapleLeafMakers",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MapleLeafMakers/Modesty_Mesh/Images/render.png"
     },
     {
       "creator": "jeoje",
@@ -2910,7 +3255,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "jeoje",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/jeoje/Molex_MLX_Microfit_Bed_Connector_Mount/images/MLX_MF3_Render.png"
     },
     {
       "creator": "clee",
@@ -2924,7 +3271,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "clee",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/clee/Monster8_heatsert_mount/example.jpg"
     },
     {
       "creator": "LoCoCNC",
@@ -2938,7 +3287,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoCoCNC"
     },
     {
       "creator": "Backenfutter",
@@ -2952,7 +3302,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Backenfutter",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Backenfutter/Mount_for_Electreeks_Camera/Pictures/Picture1.jpeg"
     },
     {
       "creator": "top_gun_de",
@@ -2966,7 +3318,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "top_gun_de",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/top_gun_de/mount_for_umbilical/Images/Umbilical-total.jpg"
     },
     {
       "creator": "Empusas",
@@ -2980,7 +3334,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Empusas",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Empusas/BTT_Filament_Motion_Sensor_Mount/BTT_Sensor.png"
     },
     {
       "creator": "Empusas",
@@ -2994,7 +3350,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Empusas",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Empusas/Terminal_Blocks_NC933_SPL-62/IMG_2334.png"
     },
     {
       "creator": "JNP",
@@ -3008,7 +3366,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JNP"
     },
     {
       "creator": "nikolasbabetas",
@@ -3022,7 +3381,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "nikolasbabetas",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/nikolasbabetas/Neopixel_Holder/Images/WhiteLight.jpg"
     },
     {
       "creator": "sloscotty",
@@ -3036,7 +3397,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "sloscotty",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/sloscotty/TopHat_Cam_Extension/Images/TopHat_Cam_Extension_Installed.jpg"
     },
     {
       "creator": "beaugalbraith",
@@ -3050,7 +3413,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "beaugalbraith",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/beaugalbraith/Nova_Printhead/images/IMG_7034.jpg"
     },
     {
       "creator": "sse018",
@@ -3064,7 +3429,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "sse018",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/sse018/Octopus_DIN_Rail_bracket/img/octobk-00.png"
     },
     {
       "creator": "ShinyPants",
@@ -3078,7 +3445,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ShinyPants"
     },
     {
       "creator": "spacelab2021",
@@ -3092,7 +3460,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "spacelab2021",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/spacelab2021/Orbiter-Clockwork/docs/images/Orbiter-Clockwork-Main.png"
     },
     {
       "creator": "Slidr",
@@ -3106,7 +3476,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Slidr"
     },
     {
       "creator": "Slidr",
@@ -3120,7 +3491,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Slidr"
     },
     {
       "creator": "henrikssn",
@@ -3134,7 +3506,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "henrikssn"
     },
     {
       "creator": "StvPtrsn",
@@ -3148,7 +3521,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "StvPtrsn"
     },
     {
       "creator": "xbst_",
@@ -3162,7 +3536,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/LED_Holder/example.JPG"
     },
     {
       "creator": "slitte",
@@ -3176,7 +3552,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "slitte"
     },
     {
       "creator": "Itzo1978",
@@ -3190,7 +3567,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-09-24T13:42:21+00:00"
+      "lastChanged": "2024-09-24T13:42:21+00:00",
+      "authorSlug": "Itzo1978",
+      "image": "/mod-images/d0187e6931170b5f9f614a911e6d5889.jpg"
     },
     {
       "creator": "christophmueller",
@@ -3204,7 +3583,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "christophmueller",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/christophmueller/Phaetus_Dragonfly_BMO_Afterburner/front.jpg"
     },
     {
       "creator": "Nomsplease",
@@ -3218,7 +3599,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Nomsplease"
     },
     {
       "creator": "richardjm",
@@ -3232,7 +3614,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "richardjm",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/richardjm/picam-corner/Images/TheView.jpg"
     },
     {
       "creator": "LoganFraser",
@@ -3246,7 +3630,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoganFraser",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/LoganFraser/PiPlate/PiPlate.jpg"
     },
     {
       "creator": "Mac10goesBRRRT",
@@ -3260,7 +3646,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Mac10goesBRRRT"
     },
     {
       "creator": "CannedBass",
@@ -3274,7 +3661,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "CannedBass",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/CannedBass/PITFT50_45_degree_mount/Images/side-view.jpeg"
     },
     {
       "creator": "al3ph",
@@ -3288,7 +3677,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "al3ph",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/al3ph/pl05_mount/probe.jpg"
     },
     {
       "creator": "henrikssn",
@@ -3302,7 +3693,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "henrikssn",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/henrikssn/plug_panel_generic/Images/1.jpg"
     },
     {
       "creator": "DC67",
@@ -3316,7 +3709,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "DC67",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/DC67/plug_panel_schaffner/IMG_20201201_164633.jpg"
     },
     {
       "creator": "jatson",
@@ -3330,7 +3725,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "jatson",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/jatson/plug_panel_schurter/images/Schurter-CD14.1101.151.jpg"
     },
     {
       "creator": "Nomsplease",
@@ -3344,7 +3741,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Nomsplease"
     },
     {
       "creator": "GSL12",
@@ -3358,7 +3756,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-21T20:17:15+00:00"
+      "lastChanged": "2024-01-21T20:17:15+00:00",
+      "authorSlug": "GSL12"
     },
     {
       "creator": "Polared",
@@ -3372,7 +3771,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Polared"
     },
     {
       "creator": "Empusas",
@@ -3386,7 +3786,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Empusas",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Empusas/PowerSkirt_FN284-10-06/Screen_Shot_FN284_1.png"
     },
     {
       "creator": "leandromarceddu",
@@ -3400,7 +3802,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "leandromarceddu",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/leandromarceddu/PowerSkirt/img/PowerSkirt.jpg"
     },
     {
       "creator": "Badnoob",
@@ -3414,7 +3818,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Badnoob"
     },
     {
       "creator": "richardjm",
@@ -3428,7 +3833,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "richardjm",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/richardjm/snap-latch-2020/Images/Latch-v68-3mm.jpg"
     },
     {
       "creator": "rngSplat",
@@ -3442,7 +3849,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "rngSplat",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/rngSplat/SW_Deck_Plate/Printable_Deckplate.jpg?raw=true"
     },
     {
       "creator": "ZZP8202",
@@ -3456,7 +3865,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ZZP8202",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ZZP8202/Pull-out_electrical_store/Photos/Voron_V2.4_Pull-out_electrical_store.PNG"
     },
     {
       "creator": "hymness1",
@@ -3470,7 +3881,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hymness1",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hymness1/Quickdraw_probe_Voron_Switchwire/Pictures/quickdraw_SW_remix.png"
     },
     {
       "creator": "MapleLeafMakers",
@@ -3484,7 +3897,9 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MapleLeafMakers",
+      "image": "/mod-images/a6b2940fe60d409265a078cd670fa60e.jpg"
     },
     {
       "creator": "Tircown",
@@ -3498,7 +3913,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Tircown"
     },
     {
       "creator": "revnull",
@@ -3512,7 +3928,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "revnull",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/revnull/rpi_7in_display_mount/Images/display_front.jpg"
     },
     {
       "creator": "johanncc",
@@ -3526,7 +3944,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "johanncc",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/johanncc/Raspberry_Pi_Camera_Mount/Images/img01.jpg"
     },
     {
       "creator": "aeresov",
@@ -3540,7 +3960,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "aeresov"
     },
     {
       "creator": "D4rkCelerity",
@@ -3554,7 +3975,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "D4rkCelerity",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/D4rkCelerity/Raspberry_Pi_Zero_Bracket/image/Rendering.JPG"
     },
     {
       "creator": "oxno",
@@ -3568,7 +3991,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "oxno",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/oxno/rbp_zero_braket/rbp_bracket_front.png"
     },
     {
       "creator": "Minsekt",
@@ -3582,7 +4007,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Minsekt",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Minsekt/Rear_Umbilical/images/rear_umbilical.png"
     },
     {
       "creator": "Liselotte111",
@@ -3596,7 +4023,8 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Liselotte111"
     },
     {
       "creator": "42bios",
@@ -3610,7 +4038,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "42bios",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/42bios/relay_mount/relay_mount_printed.jpeg"
     },
     {
       "creator": "Nomsplease",
@@ -3624,7 +4054,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Nomsplease"
     },
     {
       "creator": "ElPoPo",
@@ -3638,7 +4069,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ElPoPo"
     },
     {
       "creator": "Daten",
@@ -3652,7 +4084,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Daten",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Daten/Voron_2.4_Revo_Nozzle_Holder/Images/AllSizes.png"
     },
     {
       "creator": "baccula",
@@ -3666,7 +4100,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "baccula",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/baccula/revo_skirt_nozzle_holder/Images/iso_closed.png"
     },
     {
       "creator": "Andre",
@@ -3680,7 +4116,9 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Andre",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Andre/Revo_Nozzle_Skirt_Trident/Images/Photo-Closed.jpg"
     },
     {
       "creator": "VinnyCordeiro",
@@ -3694,7 +4132,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "VinnyCordeiro",
+      "image": "/mod-images/b179c6ea550fa8f6c7d0e562fd073506.jpg"
     },
     {
       "creator": "RockNLol",
@@ -3708,7 +4148,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "RockNLol",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/RockNLol/RockNRoll/images/example_01.jpg"
     },
     {
       "creator": "ommy",
@@ -3722,7 +4164,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ommy",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ommy/roller_brackets/vrollers.jpg"
     },
     {
       "creator": "Oakman",
@@ -3736,7 +4180,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Oakman"
     },
     {
       "creator": "aTinyShellScript",
@@ -3750,7 +4195,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "aTinyShellScript",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/aTinyShellScript/RS_PSU_DIN_Brackets/Images/brackets.jpg"
     },
     {
       "creator": "RikersBeard",
@@ -3764,7 +4211,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-07-04T20:34:19+00:00"
+      "lastChanged": "2024-07-04T20:34:19+00:00",
+      "authorSlug": "RikersBeard",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/RikersBeard/RS-50-5_Bracket/Images/RS-50-5_PSU_Bracket.jpg"
     },
     {
       "creator": "chirpy",
@@ -3778,7 +4227,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "chirpy",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/chirpy/RunoutUnklicky/images/designtop.png"
     },
     {
       "creator": "xbst_",
@@ -3792,7 +4243,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_"
     },
     {
       "creator": "LJ",
@@ -3806,7 +4258,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LJ",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/LJ/Scrubby/images/front.PNG"
     },
     {
       "creator": "Ellis",
@@ -3820,7 +4274,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Ellis",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Ellis/Short_Z_Joints/Images/Side-By-Side.png"
     },
     {
       "creator": "120decibell",
@@ -3834,7 +4290,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "120decibell",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/120decibell/exhaust_housing_side_entry/images/side_housing_view1.png"
     },
     {
       "creator": "StvPtrsn",
@@ -3848,7 +4306,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "StvPtrsn",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/StvPtrsn/Side_Fan_Support_No_Tape/Images/side_fan_support.jpg"
     },
     {
       "creator": "JNP",
@@ -3862,7 +4322,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JNP"
     },
     {
       "creator": "ScramblerUSA",
@@ -3876,7 +4337,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ScramblerUSA",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ScramblerUSA/SideSkirtPowerSwitch/images/SkirtPower.png"
     },
     {
       "creator": "Spaghetti-Bolognese",
@@ -3890,7 +4353,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Spaghetti-Bolognese",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Spaghetti-Bolognese/Z_drive_motor_mount/Small_key.JPG?raw=true"
     },
     {
       "creator": "Ellis",
@@ -3904,7 +4369,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Ellis",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Ellis/Single_MGN9H_Carriage/Images/Single_MGN9H_Carriage_CW1.png"
     },
     {
       "creator": "xceled",
@@ -3918,7 +4385,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "xceled",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xceled/Single_Panel_Magnet_Mount/Images/CoverMagnetMount.png"
     },
     {
       "creator": "StvPtrsn",
@@ -3932,7 +4401,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "StvPtrsn",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/StvPtrsn/320mm_Build/Images/front.jpg"
     },
     {
       "creator": "aeresov",
@@ -3946,7 +4417,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "aeresov"
     },
     {
       "creator": "teookie",
@@ -3960,7 +4432,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "teookie"
     },
     {
       "creator": "MrBean66",
@@ -3974,7 +4447,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MrBean66",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MrBean66/SKR_PRO_Mount/SKR_PRO_Example.png"
     },
     {
       "creator": "warriorofwire",
@@ -3988,7 +4463,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "warriorofwire",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/warriorofwire/slenderfan/images/render.png"
     },
     {
       "creator": "slitte",
@@ -4002,7 +4479,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "slitte"
     },
     {
       "creator": "Lukas",
@@ -4016,7 +4494,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Lukas",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Lukas/SSD1306_Case_Front_Cover/images/render.PNG"
     },
     {
       "creator": "LoCoCNC",
@@ -4030,7 +4510,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoCoCNC"
     },
     {
       "creator": "MapleLeafMakers",
@@ -4044,7 +4525,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MapleLeafMakers",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MapleLeafMakers/Stealth_Handles/Images/CAD2.png"
     },
     {
       "creator": "MasturMynd",
@@ -4058,7 +4541,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MasturMynd",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MasturMynd/V0.1-Stealth_Zero/Images/V0.1-Complete_Gantry.png"
     },
     {
       "creator": "eamars",
@@ -4072,7 +4557,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "eamars",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/eamars/stealthburner_crazy_dragon_toolhead/front.png"
     },
     {
       "creator": "wile-e1",
@@ -4086,7 +4573,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "wile-e1",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/wile-e1/Stealthburner_CW1_PCB_Cover/Images/cover_installed.png"
     },
     {
       "creator": "prasadp4009",
@@ -4100,7 +4589,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "prasadp4009",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/prasadp4009/SW_SB_CRTouch/images/SB_CR_FullView.png"
     },
     {
       "creator": "EmJay276",
@@ -4114,7 +4605,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "EmJay276",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/EmJay276/stealthburner_dragon_UHF_toolhead/images/front_uhf.png"
     },
     {
       "creator": "bythorsthunder",
@@ -4128,7 +4621,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "bythorsthunder",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/bythorsthunder/Stealthburner_Rapido_Uhf/IMAGES/Stealth_UHF_Photo_Front.JPG"
     },
     {
       "creator": "LoCoCNC",
@@ -4142,7 +4637,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoCoCNC"
     },
     {
       "creator": "jeoje",
@@ -4156,7 +4652,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "jeoje",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/jeoje/Sturdy_Handles/images/side_profile.png"
     },
     {
       "creator": "csch0",
@@ -4170,7 +4668,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "csch0",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/csch0/SW_FanMount_No_Tape/Images/installed.jpg"
     },
     {
       "creator": "yenda",
@@ -4184,7 +4684,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "yenda"
     },
     {
       "creator": "MakeALeft",
@@ -4198,7 +4699,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-21T20:17:15+00:00"
+      "lastChanged": "2024-01-21T20:17:15+00:00",
+      "authorSlug": "MakeALeft"
     },
     {
       "creator": "maximilian-foerg",
@@ -4212,7 +4714,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "maximilian-foerg",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/maximilian-foerg/VSW_Double_60mm_Fan_Mount/Images/01.png"
     },
     {
       "creator": "gen2eng",
@@ -4226,7 +4730,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "gen2eng",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/gen2eng/z_carriage_stop_pass_through/Images/z_carriage_stop_pass_through.png"
     },
     {
       "creator": "KenadyDwag44",
@@ -4240,7 +4746,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "KenadyDwag44",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/KenadyDwag44/sw_lightbar/photos/IMG_2278.jpg"
     },
     {
       "creator": "sloscotty",
@@ -4254,7 +4762,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "sloscotty",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/sloscotty/SW_Wall_Plate/Images/SW_backwall_plate.jpg"
     },
     {
       "creator": "Mckurt",
@@ -4268,7 +4778,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Mckurt"
     },
     {
       "creator": "tameike",
@@ -4282,7 +4793,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "tameike"
     },
     {
       "creator": "DaStivi",
@@ -4296,7 +4808,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "DaStivi",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/DaStivi/the_Cephalopods_limb/img/IMG-20210610-WA0001.jpg"
     },
     {
       "creator": "3dpandme",
@@ -4310,7 +4824,9 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "3dpandme",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/3dpandme/Thermistor_holder_zero/thermistor_holder_comparison.png"
     },
     {
       "creator": "aeresov",
@@ -4324,7 +4840,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "aeresov"
     },
     {
       "creator": "falo",
@@ -4338,7 +4855,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "falo",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/falo/toolhead_pcb_to_can/Images/image.png"
     },
     {
       "creator": "See1807",
@@ -4352,7 +4871,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "See1807",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/See1807/Voron_V0_Exhaust_and_LED_Mod/img/Konstruktion_1.PNG"
     },
     {
       "creator": "DaGrooch13",
@@ -4366,7 +4887,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "DaGrooch13",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Asm_Front_View.jpg"
     },
     {
       "creator": "MSiemons",
@@ -4380,7 +4903,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MSiemons"
     },
     {
       "creator": "roboticator24",
@@ -4394,7 +4918,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "roboticator24",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/roboticator24/4inch_touchscreen_mount_for_v2.4/img/screenshots.jpg"
     },
     {
       "creator": "CannedBass",
@@ -4408,7 +4934,9 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "CannedBass",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/CannedBass/Trident_Bed_Fans/Images/trident_bed_fans.jpeg"
     },
     {
       "creator": "Shiftingtech",
@@ -4422,7 +4950,9 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Shiftingtech",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Shiftingtech/Trident_dual_power_switch/Images/DualSwitch.jpg"
     },
     {
       "creator": "elcrni",
@@ -4436,7 +4966,9 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "elcrni",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/elcrni/Trident_Internal_Spool_Holder/Images/TISP.jpg"
     },
     {
       "creator": "LoganFraser",
@@ -4450,7 +4982,8 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoganFraser"
     },
     {
       "creator": "DerekBackus",
@@ -4464,7 +4997,9 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-21T20:17:15+00:00"
+      "lastChanged": "2024-01-21T20:17:15+00:00",
+      "authorSlug": "DerekBackus",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/DerekBackus/Right_Skirt_Switch/Images/Front_View.png"
     },
     {
       "creator": "KiloQubit",
@@ -4478,7 +5013,9 @@
         "v2_4": "✗",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "KiloQubit",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/KiloQubit/trident_schurter_power_inlet/images/IMG_7776.JPG"
     },
     {
       "creator": "edwardyeeks",
@@ -4492,7 +5029,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "edwardyeeks"
     },
     {
       "creator": "Electroleon",
@@ -4506,7 +5044,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Electroleon",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Electroleon/U2C_Mounting/Images/U2C_Mounted.jpg"
     },
     {
       "creator": "MapleLeafMakers",
@@ -4520,7 +5060,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MapleLeafMakers",
+      "image": "/mod-images/a5200232176ce489c413131fcb8465e3.jpg"
     },
     {
       "creator": "AVieira",
@@ -4534,7 +5076,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "AVieira",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/AVieira/Universal_Phone_Mount/Images/Assembly_Mounted_With_Galaxy_A3.jpg"
     },
     {
       "creator": "MapleLeafMakers",
@@ -4548,7 +5092,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MapleLeafMakers",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MapleLeafMakers/URBI/Images/options.png"
     },
     {
       "creator": "elcrni",
@@ -4562,7 +5108,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "elcrni",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/1.png"
     },
     {
       "creator": "Zen3D",
@@ -4576,7 +5124,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Zen3D",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Zen3D/V0_1515_T-nut/IMG1.jpg"
     },
     {
       "creator": "QuackProfit",
@@ -4590,7 +5140,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "QuackProfit",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/QuackProfit/V0-Adafruit-Y_Rails/images/design.jpg"
     },
     {
       "creator": "wrez",
@@ -4604,7 +5156,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "wrez",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/wrez/astrodyne-inlet/images/in-situ.jpg"
     },
     {
       "creator": "Iakabos",
@@ -4618,7 +5172,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Iakabos"
     },
     {
       "creator": "TheSquiffy",
@@ -4632,7 +5187,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "TheSquiffy"
     },
     {
       "creator": "xbst_",
@@ -4646,7 +5202,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/V0_Skirt_Buttons/Pi.png"
     },
     {
       "creator": "littleferris",
@@ -4660,7 +5218,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "littleferris",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/littleferris/V0_Skirt_Inlet/img/V0_inlet1.jpg"
     },
     {
       "creator": "Koios",
@@ -4674,7 +5234,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Koios",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Koios/V0_C920_Tophat_Mount/Images/Cable_Routing.jpg"
     },
     {
       "creator": "joposter",
@@ -4688,7 +5250,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "joposter",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/joposter/v0_clippable_ledmounts/images/printer_installed.jpg"
     },
     {
       "creator": "arkeet",
@@ -4702,7 +5266,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "arkeet",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/arkeet/v0-dc-inlet/Images/render.png"
     },
     {
       "creator": "Nashuar",
@@ -4716,7 +5282,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Nashuar"
     },
     {
       "creator": "xbst_",
@@ -4730,7 +5297,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/V0_Electronic_Panel/example.jpg"
     },
     {
       "creator": "Mellow",
@@ -4744,7 +5313,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Mellow"
     },
     {
       "creator": "Zen3D",
@@ -4758,7 +5328,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Zen3D",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Zen3D/V0_Handle/IMG1.jpg"
     },
     {
       "creator": "Ch4rlesB",
@@ -4772,7 +5344,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Ch4rlesB",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Ch4rlesB/V0_Handles_Slim/Screenshot1.png"
     },
     {
       "creator": "ponkotsu1",
@@ -4786,7 +5360,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ponkotsu1",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ponkotsu1/V0_Launchpad_Skirt/Images/top.jpg"
     },
     {
       "creator": "jgehrig",
@@ -4800,7 +5376,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "jgehrig",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/jgehrig/v0_lcdskirt/images/Main_Image.jpg"
     },
     {
       "creator": "ardichoke",
@@ -4814,7 +5392,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ardichoke",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ardichoke/v0-long-thumb-nut/images/part.jpg"
     },
     {
       "creator": "yeri",
@@ -4828,7 +5408,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "yeri"
     },
     {
       "creator": "khay",
@@ -4842,7 +5423,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T16:46:20+00:00"
+      "lastChanged": "2024-03-14T16:46:20+00:00",
+      "authorSlug": "khay",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/khay/micro_backplate/img/DSC_2959.jpg"
     },
     {
       "creator": "Zen3D",
@@ -4856,7 +5439,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Zen3D",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Zen3D/V0_MidPanel_HexPattern/IMG/V01_1.jpg"
     },
     {
       "creator": "Andre",
@@ -4870,7 +5455,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Andre",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Andre/V0_Neopixel_Front_Bed_Mount/Images/CAD_1.png"
     },
     {
       "creator": "zruncho",
@@ -4884,7 +5471,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "zruncho",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/zruncho/V0_No_Drop_Nuts/images/z_inside_corner.jpg"
     },
     {
       "creator": "madros",
@@ -4898,7 +5487,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "madros"
     },
     {
       "creator": "Dan88",
@@ -4912,7 +5502,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Dan88"
     },
     {
       "creator": "xbst_",
@@ -4926,7 +5517,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/V0_Picam/example.jpg"
     },
     {
       "creator": "deepfriedheroin",
@@ -4940,7 +5533,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "deepfriedheroin"
     },
     {
       "creator": "Kruppes",
@@ -4954,7 +5548,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Kruppes",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Kruppes/Deck_Panel_inserts_logo/pictures/deck.png"
     },
     {
       "creator": "KiloQubit",
@@ -4968,7 +5564,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "KiloQubit",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/KiloQubit/V0_reverse_bowden_mount/mount.jpg"
     },
     {
       "creator": "kirby",
@@ -4982,7 +5580,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "kirby"
     },
     {
       "creator": "doubletrouble",
@@ -4996,7 +5595,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "doubletrouble",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/doubletrouble/V0_Skirt_Mod/Skirt_1.jpg"
     },
     {
       "creator": "Zen3D",
@@ -5010,7 +5611,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Zen3D",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Zen3D/V0_Skirt/IMG/img1.jpg"
     },
     {
       "creator": "deepfriedheroin",
@@ -5024,7 +5627,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "deepfriedheroin"
     },
     {
       "creator": "claytono",
@@ -5038,7 +5642,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "claytono",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/claytono/v0-zip-tie-skirts/V0_Zip_Tie_Skirts.png"
     },
     {
       "creator": "MathematicalPotato",
@@ -5052,7 +5658,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MathematicalPotato",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MathematicalPotato/v0.1_belted_z_drive/Images/ZBelt-ISO-01.PNG"
     },
     {
       "creator": "Derpimus",
@@ -5066,7 +5674,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Derpimus",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Derpimus/Block_handle_v0.1/images/125217883-bf24e900-e28f-11eb-97ca-68b314f65b5d.jpg"
     },
     {
       "creator": "DaGlo",
@@ -5080,7 +5690,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "DaGlo",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/DaGlo/Voron_V0_Duet_2_WiFi_Mounting_Brackets/Voron_V0_Duet_2_Wifi_Bracket_v14.png"
     },
     {
       "creator": "golas",
@@ -5094,7 +5706,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "golas",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/golas/v0-extended-tophat-hinge/images/tophat_render.png"
     },
     {
       "creator": "jappaj",
@@ -5108,7 +5722,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "jappaj",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/jappaj/FanSaver/photos/FanSaver_Overview.png"
     },
     {
       "creator": "Shteeeeeve",
@@ -5122,7 +5738,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Shteeeeeve",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Shteeeeeve/V01-LED-Tophat/Images/V01-LED-Tophat-01.jpg"
     },
     {
       "creator": "cmrny",
@@ -5136,7 +5754,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "cmrny",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/cmrny/v01_motor_panel_no_rub/images/motor_panel_no_rub.png"
     },
     {
       "creator": "nhchiu",
@@ -5150,7 +5770,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "nhchiu",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/nhchiu/V0.1_Movable_Pulley_Z/Images/Img.png"
     },
     {
       "creator": "chirpy",
@@ -5164,7 +5786,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "chirpy",
+      "image": "/mod-images/fe96b92bc966b4b3abaafb53ff65b09e.jpg"
     },
     {
       "creator": "mpfl",
@@ -5178,7 +5802,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "mpfl",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/mpfl/V0.1_skirt_OLED/photo.png"
     },
     {
       "creator": "chirpy",
@@ -5192,7 +5818,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "chirpy",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/chirpy/TipTophat/images/tophatside.jpg"
     },
     {
       "creator": "Tircown",
@@ -5206,7 +5834,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Tircown",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Tircown/V01_skirt_buttons/Images/cad_split.jpg"
     },
     {
       "creator": "iblue",
@@ -5220,7 +5850,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "iblue",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/iblue/TophatExtractor/img/drawing1.png"
     },
     {
       "creator": "golas",
@@ -5234,7 +5866,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "golas",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/golas/v0-trident-skirt-mix/images/v0.1_trident_skirt_remix_render.png"
     },
     {
       "creator": "Polar-Ted",
@@ -5248,7 +5882,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Polar-Ted",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Polar-Ted/V0_Two_Piece_Back_Panel/Images/PXL_20220621_145343681.jpg"
     },
     {
       "creator": "Polar-Ted",
@@ -5262,7 +5898,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Polar-Ted"
     },
     {
       "creator": "3vilson",
@@ -5276,7 +5913,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "3vilson",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/3vilson/V0.1_Skirt_Holes/CAD.png"
     },
     {
       "creator": "3vilson",
@@ -5290,7 +5929,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "3vilson",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/3vilson/V0.1_Skirt_Inlet/CAD.png"
     },
     {
       "creator": "ruiqimao",
@@ -5304,7 +5945,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ruiqimao",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ruiqimao/V0.2_MGN9C_X/Images/angle.png"
     },
     {
       "creator": "Maverick",
@@ -5318,7 +5961,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Maverick"
     },
     {
       "creator": "yeri",
@@ -5332,7 +5976,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "yeri",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/yeri/V1_3Z/images/final_installation_view.jpg"
     },
     {
       "creator": "eddie",
@@ -5346,7 +5992,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "eddie",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/eddie/V1.8_12mm_Z_Mod/Images/12mm_Z_Mod.png"
     },
     {
       "creator": "FreeformFez",
@@ -5360,7 +6008,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "FreeformFez",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/FreeformFez/FilteredPower/pictures/Front.png"
     },
     {
       "creator": "natewalck",
@@ -5374,7 +6024,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "natewalck",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/natewalck/v1.8_Jigs/images/lower_extrusion_jig.jpeg"
     },
     {
       "creator": "piet206",
@@ -5388,7 +6040,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "piet206",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/piet206/V1.8._Z_Rails_Mod/isoview1.png"
     },
     {
       "creator": "buzzdalf",
@@ -5402,7 +6056,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "buzzdalf",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/buzzdalf/connector_cover/connector_cover_1.jpg"
     },
     {
       "creator": "deepfriedheroin",
@@ -5416,7 +6072,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "deepfriedheroin"
     },
     {
       "creator": "LoCoCNC",
@@ -5430,7 +6087,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoCoCNC"
     },
     {
       "creator": "JJFX",
@@ -5444,7 +6102,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JJFX",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/JJFX/CRTouch_Snap_Mount/Images/CRTouch-ex1_sm.jpg"
     },
     {
       "creator": "quattroerik",
@@ -5458,7 +6118,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "quattroerik",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/quattroerik/front_door_m3_180_deg_3mm/door_hinge_new.png"
     },
     {
       "creator": "xbst_",
@@ -5472,7 +6134,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_"
     },
     {
       "creator": "JD",
@@ -5486,7 +6149,8 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JD"
     },
     {
       "creator": "1-0-R",
@@ -5500,7 +6164,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "1-0-R",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/1-0-R/handle/images/handle_rendering.jpg"
     },
     {
       "creator": "JeremyRuhland",
@@ -5514,7 +6180,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "JeremyRuhland",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/JeremyRuhland/V2.4_Plug_Panel_Generic_Combo/img/plug_panel.jpg"
     },
     {
       "creator": "Dr-Info",
@@ -5528,7 +6196,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Dr-Info",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Dr-Info/V2.4r2_Z-Drive_Motor_Tensioner_Mod_Rear_Skirts/Images/Filtered_Inlet_Skirt_Mod.JPG"
     },
     {
       "creator": "xbst_",
@@ -5542,7 +6212,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "xbst_",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/xbst_/V2.4_Skirt_Buttons/Pictures/1.jpg"
     },
     {
       "creator": "tayto-chip",
@@ -5556,7 +6228,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "tayto-chip",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/tayto-chip/skirt_switch_mod/images/IMG_1224.jpeg"
     },
     {
       "creator": "jeoje",
@@ -5570,7 +6244,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "jeoje",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/jeoje/Z_Chain_Guide_Thermistor_Mount/images/render1.png"
     },
     {
       "creator": "KiloQubit",
@@ -5584,7 +6260,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "KiloQubit",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts/z_chain.jpg"
     },
     {
       "creator": "Dr-Info",
@@ -5598,7 +6276,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-02-23T17:05:57+00:00"
+      "lastChanged": "2024-02-23T17:05:57+00:00",
+      "authorSlug": "Dr-Info",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Dr-Info/V2.4_z_drive_motor_tensioner_mod/z_drive_mod.png"
     },
     {
       "creator": "jasonc",
@@ -5612,7 +6292,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "jasonc"
     },
     {
       "creator": "KevinAkaSam",
@@ -5626,7 +6307,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "KevinAkaSam",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/KevinAkaSam/VEFACH/Images/1.jpg"
     },
     {
       "creator": "madfabrications",
@@ -5640,7 +6323,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "madfabrications"
     },
     {
       "creator": "evandepol",
@@ -5654,7 +6338,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "evandepol",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/evandepol/Voron2.4-Cable-clamps/Images/annotated.jpg"
     },
     {
       "creator": "claytono",
@@ -5668,7 +6354,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "claytono",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/claytono/2.4-extrusion-jig/image.png"
     },
     {
       "creator": "conqueror433",
@@ -5682,7 +6370,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "conqueror433",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/conqueror433/Voron_Parts_Logo/Images/Image_1.jpg"
     },
     {
       "creator": "DaGlo",
@@ -5696,7 +6386,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "DaGlo",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/DaGlo/Voron_V0_MW_PS_Bracket/Voron_V0_MW_PS_Bracket_v7_1.png"
     },
     {
       "creator": "DaGlo",
@@ -5710,7 +6402,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "DaGlo",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/DaGlo/Voron_V0_SSR_Mount/Voron_V0_SSR_Mount_v5_Back.png"
     },
     {
       "creator": "conqueror433",
@@ -5724,7 +6418,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "conqueror433",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/conqueror433/Voron_V0.1_Parts_Logo/Images/Image_1.jpg"
     },
     {
       "creator": "MCMBen",
@@ -5738,7 +6434,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "MCMBen",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/MCMBen/Voron0_Block_and_Tackle_Z_Belt/Images/Block_and_Tackle_Z_Belt_Render.png"
     },
     {
       "creator": "hartk1213",
@@ -5752,7 +6450,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213"
     },
     {
       "creator": "hartk1213",
@@ -5766,7 +6465,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213"
     },
     {
       "creator": "hartk1213",
@@ -5780,7 +6480,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213"
     },
     {
       "creator": "hartk1213",
@@ -5794,7 +6495,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213"
     },
     {
       "creator": "hartk1213",
@@ -5808,7 +6510,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213"
     },
     {
       "creator": "hartk1213",
@@ -5822,7 +6525,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213"
     },
     {
       "creator": "hartk1213",
@@ -5836,7 +6540,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213"
     },
     {
       "creator": "hartk1213",
@@ -5850,7 +6555,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2025-05-29T01:45:55+00:00"
+      "lastChanged": "2025-05-29T01:45:55+00:00",
+      "authorSlug": "hartk1213",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hartk1213/Voron0.2_2.8_WaveshareDisplay/Images/WaveshareSkirtMount.png"
     },
     {
       "creator": "hartk1213",
@@ -5864,7 +6571,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hartk1213/Voron0.2_Rear_Keystone_Skirt/Images/1.png"
     },
     {
       "creator": "hartk1213",
@@ -5878,7 +6587,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod/Images/1.jpg"
     },
     {
       "creator": "hartk1213",
@@ -5892,7 +6603,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213"
     },
     {
       "creator": "hartk1213",
@@ -5906,7 +6618,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop/Images/9.png"
     },
     {
       "creator": "hartk1213",
@@ -5920,7 +6634,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "hartk1213",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/hartk1213/Voron2.4_Y_Endstop_Relocation/Images/1.png"
     },
     {
       "creator": "Boingomw",
@@ -5934,7 +6650,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Boingomw",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Boingomw/Wago_mount/images/Installed_Older_Version.jpg"
     },
     {
       "creator": "LoganFraser",
@@ -5948,7 +6666,9 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "LoganFraser",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/LoganFraser/WagoMounts/WagoMounts-Extrusion&Din.png"
     },
     {
       "creator": "Rhastlyn",
@@ -5962,7 +6682,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Rhastlyn",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Rhastlyn/WansviewCameraMount/Images/InstalledSideBack.jpg"
     },
     {
       "creator": "Takuya",
@@ -5976,7 +6698,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Takuya"
     },
     {
       "creator": "sttts",
@@ -5990,7 +6713,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "sttts",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED/Images/photo.jpeg"
     },
     {
       "creator": "consibonsi",
@@ -6004,7 +6729,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "consibonsi",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/consibonsi/Y-Mod_SW_9mm/images/image01.jpg"
     },
     {
       "creator": "ChenTheDesignMaker",
@@ -6018,7 +6745,9 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "ChenTheDesignMaker",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/ChenTheDesignMaker/Z_Belt_Clip/imgs/IMG_3018.jpg"
     },
     {
       "creator": "Jon",
@@ -6032,7 +6761,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "Jon",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/Jon/V0.1_Z_Cover/IMG/Bottom_panel_Airgap_Lid_v4.png"
     },
     {
       "creator": "tallman5",
@@ -6046,7 +6777,8 @@
         "v2_4": "✓",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "tallman5"
     },
     {
       "creator": "xbst_",
@@ -6060,7 +6792,8 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-03-14T14:43:28+00:00"
+      "lastChanged": "2024-03-14T14:43:28+00:00",
+      "authorSlug": "xbst_"
     },
     {
       "creator": "BlueBear",
@@ -6074,7 +6807,9 @@
         "v2_4": "✗",
         "trident": "✗"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "BlueBear",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/BlueBear/Ziptie_Mount/images/image01.jpg"
     },
     {
       "creator": "muradir",
@@ -6088,8 +6823,10 @@
         "v2_4": "✓",
         "trident": "✓"
       },
-      "lastChanged": "2024-01-08T16:38:25+00:00"
+      "lastChanged": "2024-01-08T16:38:25+00:00",
+      "authorSlug": "muradir",
+      "image": "https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/muradir/Zodiac_BMO_Stealthburner_Toolhead/images/Toolhead.jpg"
     }
   ],
-  "lastUpdated": "2025-11-12T17:30:49.677Z"
+  "lastUpdated": "2025-11-12T18:47:43.943Z"
 }

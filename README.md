@@ -7,6 +7,7 @@ Voron Mod Hub is a static Next.js experience for browsing the community-maintain
 - ⚡️ **Instant filtering** – search by title, creator, or description and filter by core printer families completely on the client.
 - 📦 **Static export ready** – `npm run build:static` emits an `out/` folder that deploys directly to GitHub Pages.
 - 🚀 **Daily rebuilds** – a GitHub Actions workflow (push, schedule, manual) refreshes the data, commits it when necessary, builds, and deploys.
+- 🖼 **Automatic previews** – nightly builds try to grab the first image from each mod’s README so cards feel more visual without any manual curation.
 
 ## Project Structure
 ```
