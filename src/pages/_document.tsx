@@ -1,10 +1,13 @@
 import { Html, Head, Main, NextScript } from "next/document";
 
+const repoName = process.env.GITHUB_REPOSITORY?.split("/")[1];
+const assetPrefix = process.env.GITHUB_ACTIONS === "true" && repoName ? `/${repoName}` : "";
+
 export default function Document() {
   return (
     <Html lang="en">
       <Head>
-        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+        <link rel="icon" href={`${assetPrefix}/favicon.svg`} type="image/svg+xml" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link
