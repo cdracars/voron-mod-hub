@@ -57,3 +57,8 @@ Ensure **Actions → General → Workflow permissions** is set to “Read and wr
 
 ## Environment
 No secrets are required. Everything is derived from public GitHub data. If the VoronUsers table layout ever changes, update `scripts/parseReadme.ts` accordingly.
+
+## Support
+
+If Voron Mod Hub is useful to you, you can support its continued upkeep on
+[Ko-fi](https://ko-fi.com/cdracars66494).
