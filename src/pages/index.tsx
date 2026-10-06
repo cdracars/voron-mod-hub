@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Image from "next/image";
 import type { GetStaticProps } from "next";
 import path from "path";
 import { promises as fs } from "fs";
@@ -170,16 +171,26 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
       <main className="min-h-screen bg-gradient-to-b from-zinc-50 via-white to-zinc-100 px-4 py-10 text-zinc-900 dark:from-black dark:via-zinc-900 dark:to-black sm:px-8">
         <div className="mx-auto flex w-full max-w-screen-2xl flex-col gap-10">
           <header className="flex flex-col gap-6 rounded-3xl border border-white/10 bg-gradient-to-r from-zinc-900 via-zinc-800 to-emerald-800 p-8 text-white shadow-xl">
-            <div className="flex flex-col gap-3">
-              <p className="text-sm uppercase tracking-[0.3em] text-emerald-300">Voron Mod Hub</p>
-              <h1 className="text-4xl font-semibold leading-tight sm:text-5xl">
-                The fastest way to explore Voron community mods
-              </h1>
-              <p className="max-w-2xl text-base text-white/80">
-                Community-built and unofficial, this hub exists to make the official VoronUsers catalog easier to browse.
-                We parse VoronUsers every day so you can search, filter, and discover mods without digging through GitHub
-                tables. Everything is static, fast, and ready for you to find what you need.
-              </p>
+            <div className="flex items-start gap-4 sm:gap-5">
+              <Image
+                src="/favicon.svg"
+                alt="Voron Mod Hub mark"
+                width={56}
+                height={56}
+                priority
+                className="mt-1 size-12 shrink-0 sm:size-14"
+              />
+              <div className="flex flex-col gap-3">
+                <p className="text-sm uppercase tracking-[0.3em] text-emerald-300">Voron Mod Hub</p>
+                <h1 className="text-4xl font-semibold leading-tight sm:text-5xl">
+                  The fastest way to explore Voron community mods
+                </h1>
+                <p className="max-w-2xl text-base text-white/80">
+                  Community-built and unofficial, this hub exists to make the official VoronUsers catalog easier to browse.
+                  We parse VoronUsers every day so you can search, filter, and discover mods without digging through GitHub
+                  tables. Everything is static, fast, and ready for you to find what you need.
+                </p>
+              </div>
             </div>
             <div className="flex flex-wrap gap-6 text-sm text-white/80">
               <div>
