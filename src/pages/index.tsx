@@ -26,6 +26,8 @@ const sorters: Record<SortOption, (a: Mod, b: Mod) => number> = {
 };
 const PAGE_SIZE = 24;
 const PRINTER_KEYS: PrinterKey[] = ["v0", "v0_1", "v1_8", "v2_4", "trident"];
+const repoName = process.env.GITHUB_REPOSITORY?.split("/")[1];
+const assetPrefix = process.env.GITHUB_ACTIONS === "true" && repoName ? `/${repoName}` : "";
 
 export default function Home({ mods, lastUpdated }: HomeProps) {
   const router = useRouter();
@@ -186,7 +188,7 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
           <header className="flex flex-col gap-6 rounded-3xl border border-white/10 bg-gradient-to-r from-zinc-900 via-zinc-800 to-emerald-800 p-8 text-white shadow-xl">
             <div className="flex items-start gap-4 sm:gap-5">
               <Image
-                src="/favicon.svg"
+                src={`${assetPrefix}/favicon.svg`}
                 alt="Voron Mod Hub mark"
                 width={56}
                 height={56}
