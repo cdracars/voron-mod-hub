@@ -168,6 +168,19 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
           content="Browse, search, and filter the VoronUsers mod catalog with instant client-side filtering."
         />
       </Head>
+      <a
+        className="github-corner"
+        href="https://github.com/cdracars/voron-mod-hub"
+        target="_blank"
+        rel="noreferrer"
+        aria-label="View Voron Mod Hub source on GitHub"
+      >
+        <svg viewBox="0 0 250 250" aria-hidden="true">
+          <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z" />
+          <path className="octo-arm" d="M128.3,109.0 C113.8,99.7 119.0,89.6 119.0,89.6 C122.0,82.7 120.5,78.6 120.5,78.6 C119.2,72.0 123.4,76.3 123.4,76.3 C127.3,80.9 125.5,87.3 125.5,87.3 C122.9,97.6 130.6,101.9 134.4,103.2" />
+          <path className="octo-body" d="M115.0,115.0 C114.9,115.1 118.7,116.5 119.8,115.4 L133.7,101.6 C136.9,99.2 139.9,98.4 142.2,98.6 C133.8,88.0 127.5,74.4 143.8,58.0 C148.5,53.4 154.0,51.2 159.7,51.0 C160.3,49.4 163.2,43.6 171.4,40.6 C171.4,40.6 176.1,42.5 178.8,56.2 C183.8,58.6 187.2,61.8 189.8,65.4 C203.1,64.1 206.7,69.9 206.7,69.9 C203.7,78.2 197.8,81.0 196.1,81.4 C196.4,87.8 194.4,93.4 189.8,98.1 C173.7,114.2 159.5,107.5 149.9,99.4 C150.1,101.8 149.3,104.9 146.9,108.1 L133.0,121.9 C131.9,123.0 133.3,126.8 133.4,126.8 Z" />
+        </svg>
+      </a>
       <main className="min-h-screen bg-gradient-to-b from-zinc-50 via-white to-zinc-100 px-4 py-10 text-zinc-900 dark:from-black dark:via-zinc-900 dark:to-black sm:px-8">
         <div className="mx-auto flex w-full max-w-screen-2xl flex-col gap-10">
           <header className="flex flex-col gap-6 rounded-3xl border border-white/10 bg-gradient-to-r from-zinc-900 via-zinc-800 to-emerald-800 p-8 text-white shadow-xl">
@@ -201,17 +214,6 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
                 <p className="text-3xl font-bold text-white">{filteredMods.length.toLocaleString()}</p>
                 <p>Matching current filters</p>
               </div>
-              <a
-                href="https://github.com/cdracars/voron-mod-hub"
-                target="_blank"
-                rel="noreferrer"
-                className="inline-flex items-center gap-2 self-end font-medium text-emerald-200 underline decoration-emerald-300/45 underline-offset-4 transition hover:text-white hover:decoration-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-white"
-              >
-                <svg aria-hidden viewBox="0 0 24 24" className="size-4" fill="currentColor">
-                  <path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-1.026-.013-1.864-2.782.604-3.369-1.18-3.369-1.18-.455-1.156-1.11-1.464-1.11-1.464-.908-.621.069-.608.069-.608 1.004.071 1.532 1.03 1.532 1.03.892 1.529 2.341 1.087 2.91.832.091-.646.349-1.087.635-1.337-2.221-.253-4.556-1.111-4.556-4.944 0-1.092.39-1.985 1.029-2.685-.103-.253-.446-1.271.098-2.65 0 0 .84-.269 2.75 1.026A9.565 9.565 0 0 1 12 6.8c.85.004 1.706.115 2.505.337 1.909-1.295 2.748-1.026 2.748-1.026.546 1.379.202 2.397.1 2.65.64.7 1.028 1.593 1.028 2.685 0 3.842-2.339 4.688-4.566 4.936.359.31.678.919.678 1.852 0 1.338-.012 2.416-.012 2.745 0 .267.18.578.688.48A10.003 10.003 0 0 0 22 12c0-5.523-4.477-10-10-10Z" />
-                </svg>
-                View source on GitHub
-              </a>
             </div>
           </header>
 
