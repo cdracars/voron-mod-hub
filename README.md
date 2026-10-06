@@ -62,3 +62,7 @@ No secrets are required. Everything is derived from public GitHub data. If the V
 
 If Voron Mod Hub is useful to you, you can support its continued upkeep on
 [Ko-fi](https://ko-fi.com/cdracars66494).
+
+## License
+
+[MIT](LICENSE)
