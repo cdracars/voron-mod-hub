@@ -201,6 +201,17 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
                 <p className="text-3xl font-bold text-white">{filteredMods.length.toLocaleString()}</p>
                 <p>Matching current filters</p>
               </div>
+              <a
+                href="https://github.com/cdracars/voron-mod-hub"
+                target="_blank"
+                rel="noreferrer"
+                className="inline-flex items-center gap-2 self-end font-medium text-emerald-200 underline decoration-emerald-300/45 underline-offset-4 transition hover:text-white hover:decoration-white focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-white"
+              >
+                <svg aria-hidden viewBox="0 0 24 24" className="size-4" fill="currentColor">
+                  <path d="M12 2C6.477 2 2 6.477 2 12c0 4.418 2.865 8.166 6.839 9.489.5.092.682-.217.682-.482 0-.237-.009-1.026-.013-1.864-2.782.604-3.369-1.18-3.369-1.18-.455-1.156-1.11-1.464-1.11-1.464-.908-.621.069-.608.069-.608 1.004.071 1.532 1.03 1.532 1.03.892 1.529 2.341 1.087 2.91.832.091-.646.349-1.087.635-1.337-2.221-.253-4.556-1.111-4.556-4.944 0-1.092.39-1.985 1.029-2.685-.103-.253-.446-1.271.098-2.65 0 0 .84-.269 2.75 1.026A9.565 9.565 0 0 1 12 6.8c.85.004 1.706.115 2.505.337 1.909-1.295 2.748-1.026 2.748-1.026.546 1.379.202 2.397.1 2.65.64.7 1.028 1.593 1.028 2.685 0 3.842-2.339 4.688-4.566 4.936.359.31.678.919.678 1.852 0 1.338-.012 2.416-.012 2.745 0 .267.18.578.688.48A10.003 10.003 0 0 0 22 12c0-5.523-4.477-10-10-10Z" />
+                </svg>
+                View source on GitHub
+              </a>
             </div>
           </header>
 
