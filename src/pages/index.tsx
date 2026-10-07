@@ -218,12 +218,12 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
               <div className="flex flex-col gap-3">
                 <p className="text-sm uppercase tracking-[0.3em] text-emerald-300">Voron Mod Hub</p>
                 <h1 className="text-4xl font-semibold leading-tight sm:text-5xl">
-                  The fastest way to explore Voron community mods
+                  Browse Voron community mods in one searchable catalog
                 </h1>
                 <p className="max-w-2xl text-base text-white/80">
-                  Community-built and unofficial, this hub exists to make the official VoronUsers catalog easier to browse.
-                  We parse VoronUsers every day so you can search, filter, and discover mods without digging through GitHub
-                  tables. Everything is static, fast, and ready for you to find what you need.
+                  This independent browser makes the community-maintained VoronUsers catalog easier to search and filter.
+                  Browse by mod name, creator, description, or supported printer family, then open the original listing for
+                  its full details.
                 </p>
               </div>
             </div>
@@ -272,6 +272,28 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
               <div className="h-1 w-full" aria-hidden />
             )}
           </div>
+
+          <section
+            aria-labelledby="catalog-notes-heading"
+            className="mx-auto w-full max-w-3xl border-t border-zinc-300/70 py-8 text-sm leading-6 text-zinc-700 dark:border-zinc-800 dark:text-zinc-300"
+          >
+            <h2
+              id="catalog-notes-heading"
+              className="mb-2 text-lg font-semibold text-zinc-900 dark:text-zinc-100"
+            >
+              About the catalog and compatibility
+            </h2>
+            <p>
+              Mod listings come from the community-maintained VoronUsers catalog and are refreshed automatically. Use the
+              printer filters to narrow the list, then open a mod’s original page for its requirements, revisions, and
+              installation notes.
+            </p>
+            <p className="mt-3">
+              Compatibility labels are a browsing aid, not a fit guarantee for your exact printer build. Check the creator’s
+              notes and current source listing before printing or installing a mod. Voron Mod Hub is an independent project,
+              not an official Voron Design product.
+            </p>
+          </section>
         </div>
       </main>
       {showScrollTop ? (
