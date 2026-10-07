@@ -162,11 +162,33 @@ export default function Home({ mods, lastUpdated }: HomeProps) {
   return (
     <>
       <Head>
-        <title>Voron Mod Hub</title>
+        <title>Voron Mod Hub — Search the VoronUsers Catalog</title>
         <meta
           name="description"
-          content="Browse, search, and filter the VoronUsers mod catalog with instant client-side filtering."
+          content="Browse the community-maintained VoronUsers catalog. Search mods by name, creator, or description, filter by printer family, and share your results."
         />
+        <link rel="canonical" href="https://cdracars.github.io/voron-mod-hub/" />
+        <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="Voron Mod Hub" />
+        <meta property="og:title" content="Voron Mod Hub — Search the VoronUsers Catalog" />
+        <meta
+          property="og:description"
+          content="Browse the community-maintained VoronUsers catalog. Search mods by name, creator, or description, filter by printer family, and share your results."
+        />
+        <meta property="og:url" content="https://cdracars.github.io/voron-mod-hub/" />
+        <meta property="og:image" content="https://cdracars.github.io/voron-mod-hub/social-preview.png" />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:image:type" content="image/png" />
+        <meta property="og:image:alt" content="Voron Mod Hub: search the community VoronUsers catalog and filter by printer family." />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content="Voron Mod Hub — Search the VoronUsers Catalog" />
+        <meta
+          name="twitter:description"
+          content="Browse the community-maintained VoronUsers catalog by name, creator, description, or printer family."
+        />
+        <meta name="twitter:image" content="https://cdracars.github.io/voron-mod-hub/social-preview.png" />
+        <meta name="twitter:image:alt" content="Voron Mod Hub: search the community VoronUsers catalog and filter by printer family." />
       </Head>
       <a
         className="github-corner"

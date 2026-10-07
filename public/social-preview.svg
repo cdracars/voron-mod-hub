@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#090b0a"/><circle cx="1020" cy="100" r="260" fill="#121a16"/><path d="M0 505h1200v125H0z" fill="#102018"/>
+  <g font-family="Arial,sans-serif"><text x="80" y="110" fill="#34d399" font-size="24" font-weight="700" letter-spacing="4">COMMUNITY VORON MOD CATALOG</text><text x="80" y="220" fill="#f0fdf4" font-size="82" font-weight="700">Voron Mod Hub</text><text x="80" y="287" fill="#a7b8ae" font-size="31">Search mods. Filter by printer family.</text>
+  <g transform="translate(775 230)" fill="none" stroke="#34d399" stroke-width="12" stroke-linejoin="round"><path d="M80 190V80l100-55 100 55v110l-100 55z"/><path d="M80 80l100 58 100-58M180 138v107" stroke="#a7b8ae"/><circle cx="290" cy="195" r="52" stroke="#f0fdf4"/><path d="m328 233 48 48" stroke="#f0fdf4"/></g>
+  <text x="80" y="566" fill="#f0fdf4" font-size="26" font-weight="700">Find community-made mods for your printer</text><text x="1110" y="566" fill="#34d399" font-size="20" text-anchor="end">VoronUsers catalog</text></g>
+</svg>
